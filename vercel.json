@@ -1,13 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Parrot-Recites-Crypto-Wallet-Key-on-Livestream-Owner-Loses-Fortune",
-        "destination": "/Parrot-Recites-Crypto-Wallet-Key-on-Livestream-Owner-Loses-Fortune.html"
-      }
-      
-      
-    ]
-    
-    
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Hamster-Becomes-Unexpected-Contributor-to-Cryptocurrency-Mining-Operation",
+      "destination": "/Hamster-Becomes-Unexpected-Contributor-to-Cryptocurrency-Mining-Operation.html"
+    }
+  ]
+}
