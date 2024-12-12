@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>DeFi News &amp; Updates: Latest Live Info from Blockonomi</title>
+	<atom:link href="https://blockonomi.com/defi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blockonomi.com/defi/</link>
+	<description>Cryptocurrency News &#38; Your Guide to the Blockchain Economy</description>
+	<lastBuildDate>Thu, 12 Dec 2024 08:40:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://blockonomi.com/wp-content/uploads/2020/07/fav-50x50.png</url>
+	<title>DeFi News &amp; Updates: Latest Live Info from Blockonomi</title>
+	<link>https://blockonomi.com/defi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">134176212</site>	<item>
+		<title>ETH, AAVE &#038; LINK Soar as Trump&#8217;s World Liberty Financial Buys $12M of Tokens</title>
+		<link>https://blockonomi.com/eth-aave-link-soar-as-trumps-world-liberty-financial-buys-12m-of-tokens/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 08:40:20 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=107970</guid>
+
+					<description><![CDATA[<p>TLDR: World Liberty Financial, backed by Trump family, purchased $12M worth of cryptocurrencies: $10M in ETH and $1M each in AAVE and LINK tokens The purchases triggered price surges: ETH up 8%, AAVE up 33%, and LINK up 30% Donald Trump serves as &#8220;chief crypto advocate&#8221; while his sons Eric and Donald Jr. are &#8220;web3 [...]</p>
+<p>The post <a href="https://blockonomi.com/eth-aave-link-soar-as-trumps-world-liberty-financial-buys-12m-of-tokens/">ETH, AAVE &#038; LINK Soar as Trump&#8217;s World Liberty Financial Buys $12M of Tokens</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR:</h2>
+<ul>
+<li>World Liberty Financial, backed by Trump family, purchased $12M worth of cryptocurrencies: $10M in ETH and $1M each in AAVE and LINK tokens</li>
+<li>The purchases triggered price surges: ETH up 8%, AAVE up 33%, and LINK up 30%</li>
+<li>Donald Trump serves as &#8220;chief crypto advocate&#8221; while his sons Eric and Donald Jr. are &#8220;web3 ambassadors&#8221;</li>
+<li>World Liberty Financial is developing a DeFi platform using Chainlink&#8217;s infrastructure and plans to deploy an Aave v3 instance</li>
+<li>The project&#8217;s DAO proposal for Aave integration has already met quorum ahead of December 13 deadline</li>
+</ul>
+<hr />
+<p><a href="https://www.worldlibertyfinancial.com/">World Liberty Financial</a>, a cryptocurrency platform supported by the Trump family, made waves in the digital asset market on December 12, 2024, with major token purchases totaling $12 million. The buying spree caused substantial price increases across several leading cryptocurrencies.</p>
+<p>The project&#8217;s cryptocurrency wallet executed a series of purchases early Thursday, acquiring $10 million worth of Ethereum (ETH) and investing $1 million each in Aave (AAVE) and Chainlink (LINK) tokens. The transactions had an immediate impact on the market, with ETH prices climbing 8% during Asian trading hours.</p>
+<p>The most dramatic price movements were seen in AAVE and LINK tokens, which both experienced sharp increases. AAVE surged 33% to reach $356, while LINK jumped 30% to trade at $29.29. These price movements reflected the market&#8217;s quick response to the large-scale purchases.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Trump&#39;s World Liberty(<a href="https://twitter.com/worldlibertyfi?ref_src=twsrc%5Etfw">@worldlibertyfi</a>) is buying <a href="https://twitter.com/search?q=%24ETH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ETH</a>, <a href="https://twitter.com/search?q=%24LINK&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LINK</a> and <a href="https://twitter.com/search?q=%24AAVE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AAVE</a>!</p>
+<p>In the past 9 hours, the World Liberty Multisig wallet spent 10M <a href="https://twitter.com/search?q=%24USDC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDC</a> to buy 2,631 <a href="https://twitter.com/search?q=%24ETH&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ETH</a> at $3,801, 1M <a href="https://twitter.com/search?q=%24USDC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDC</a> to buy 41,335 <a href="https://twitter.com/search?q=%24LINK&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LINK</a> at $24.2, and 1M <a href="https://twitter.com/search?q=%24USDC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$USDC</a> to buy 3,357 <a href="https://twitter.com/search?q=%24AAVE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AAVE</a> at $297.8.<a href="https://t.co/mtD0c2tvvo">https://t.co/mtD0c2tvvo</a> <a href="https://t.co/B11KvcwRJQ">pic.twitter.com/B11KvcwRJQ</a></p>
+<p>&mdash; Lookonchain (@lookonchain) <a href="https://twitter.com/lookonchain/status/1867036708983935325?ref_src=twsrc%5Etfw">December 12, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Data from blockchain analysis shows that World Liberty Financial has been steadily building its position over the past several days. The project&#8217;s wallet spent an additional $30 million to purchase 8,105 ETH at an average price of $3,700 in the twelve days leading up to the latest transactions.</p>
+<p>The Trump family&#8217;s involvement in World Liberty Financial has drawn attention to the project. Former President Donald Trump, who is currently President-elect, holds the position of &#8220;chief crypto advocate.&#8221; His sons Eric and Donald Trump Jr. serve as &#8220;web3 ambassadors&#8221; for the platform, while his younger son Barron has been named &#8220;DeFi visionary.&#8221;</p>
+<p>World Liberty Financial operates as a unified platform where users can engage in various cryptocurrency activities. The platform enables borrowing and lending of digital assets, creation of liquidity pools, and transactions with stablecoins. The project&#8217;s native token, WLFI, serves as a governance token for the platform.</p>
+<p>Recent developments show that World Liberty Financial is working to expand its technological infrastructure. The platform has integrated with Chainlink&#8217;s services to enhance its connectivity with the broader cryptocurrency ecosystem. Chainlink provides essential pricing data and cross-chain interoperability infrastructure to support the platform&#8217;s operations.</p>
+<p>Chainlink community liaison Zach Rynes commented on the partnership, stating that the $1 million LINK purchase &#8220;strengthens the long-term alignment between the two ecosystems.&#8221; He noted that the integration would help scale decentralized finance (DeFi) services to a wider audience.</p>
+<p>The platform recently proposed deploying a World Liberty Financial Aave v3 instance through its decentralized autonomous organization (DAO). This implementation would be managed by external risk managers and built using existing Aave v3 infrastructure on the Ethereum network.</p>
+<p>The proposal has already received enough votes to meet quorum before its December 13 deadline. Key goals of the integration include attracting new users to the platform and sharing revenue with liquidity providers.</p>
+<p>Breaking down the specific purchases, World Liberty Financial&#8217;s wallet bought 2,631 ETH at $3,801 per token, using $10 million in USDC stablecoin. The project also acquired 41,335 LINK tokens at an average price of $24.20 and 3,357 AAVE tokens at $297.80 each.</p>
+<p>Market analysts have noted increased trading activity following the purchases. The cryptocurrency community has shown particular interest in the project&#8217;s choice of tokens, with some traders suggesting these selections might indicate future strategic moves.</p>
+<p>Trading data shows that AAVE&#8217;s price increase has been part of a longer upward trend, with the token gaining 150% in value over the past three months. This growth reflects wider interest in decentralized lending platforms and their features, including flash loans and collateral management.</p>
+<p>The Ethereum network, which serves as the foundation for many of these DeFi applications, has seen its native token ETH trade at $3,940 following the recent price increase. The blockchain continues to host a growing number of decentralized applications and financial services.</p>
+<p>Chainlink&#8217;s role as a decentralized oracle network makes it a crucial part of many blockchain applications, providing reliable data feeds and cross-chain connectivity solutions. The recent price movement brings attention to its expanding role in the DeFi ecosystem.</p>
+<p>The platform&#8217;s DAO proposal for Aave integration outlines plans for managing risk and expanding user access to DeFi services. If approved, this integration would mark a major step in World Liberty Financial&#8217;s development as a comprehensive cryptocurrency platform.</p>
+<p>The post <a href="https://blockonomi.com/eth-aave-link-soar-as-trumps-world-liberty-financial-buys-12m-of-tokens/">ETH, AAVE &#038; LINK Soar as Trump&#8217;s World Liberty Financial Buys $12M of Tokens</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">107970</post-id>	</item>
+		<item>
+		<title>Complete Guide to Yield Farming: How to Participate in Ethereum DeFi&#8217;s Growing Harvests</title>
+		<link>https://blockonomi.com/yield-farming/</link>
+		
+		<dc:creator><![CDATA[William M. Peaster]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 08:34:59 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Eth]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Yield Farming]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=43373</guid>
+
+					<description><![CDATA[<p>Decentralized finance, or DeFi, has exploded atop the Ethereum blockchain this year. In doing so, the sector&#8217;s top apps, like trading protocols Uniswap and Curve, have never been more used or popular. In recent months, this DeFi boom has been rapidly accelerated by the arrival of the new hit &#8220;yield farming&#8221; phenomenon. But what is [...]</p>
+<p>The post <a href="https://blockonomi.com/yield-farming/">Complete Guide to Yield Farming: How to Participate in Ethereum DeFi&#8217;s Growing Harvests</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Decentralized finance, or DeFi, has exploded atop the Ethereum blockchain this year. In doing so, the sector&#8217;s top apps, like trading protocols Uniswap and Curve, have never been more used <a href="https://blockonomi.com/uniswap-sees-revenues-surge-to-new-heights/">or popular</a>.</p>
+<p>In recent months, this DeFi boom has been rapidly accelerated by the arrival of the new hit &#8220;yield farming&#8221; phenomenon. But what is yield farming, how does it work, and how can you participate?</p>
+<p>In today&#8217;s post, we&#8217;ll be breaking down the ins and outs of yield farming for beginners so you can eventually start harvesting crypto on your own <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f468-200d-1f33e.png" alt="👨‍🌾" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f69c.png" alt="🚜" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<hr />
+<h2>What Yield Farming Is</h2>
+<p>DeFi apps are fledgling, and they need users to grow and actualize.</p>
+<p>To this end, this year DeFi projects have been increasingly turning to yield farming. This process involves protocols distributing governance tokens to their users to bootstrap activity and incentivize the support of key early stakeholders.</p>
+<p>Let&#8217;s take the example of major DeFi borrowing and lending project Compound, which rolled out farming around its COMP governance token earlier this year. Compound distributed COMP retroactively to its past lenders and borrowers and offered ongoing COMP rewards to its current ones.</p>
+<p>In other words, you could earn COMP &#8212; and thus a future say in Compound&#8217;s governance &#8212; just for using Compound. That&#8217;s yield farming in a nutshell.</p>
+<hr />
+<h2>What You’ll Need to Start Farming</h2>
+<p>To start yield farming, your checklist is pretty simple. You&#8217;ll only need:</p>
+<ul>
+<li><em>An Ethereum address (ideally a hardware wallet)</em></li>
+<li><em>Some ETH to pay for transactions</em></li>
+</ul>
+<p>And that&#8217;s all! Once you have your wallet and ETH prepared, you&#8217;ll be ready to move on to analyzing and identifying which yield farming opportunities are right for you.</p>
+<hr />
+<h2>Finding Farming Opportunities</h2>
+<p>New yield farming campaigns are popping up everyday at this point. Figuring out which ones are worthwhile to participate in is half the battle.</p>
+<p>The good news is that plenty of resources have recently popped up that make this process a lot easier. Some of these include:</p>
+<ul>
+<li>Etherscan&#8217;s new <a href="https://etherscan.io/yieldfarms" target="_blank" rel="noopener noreferrer"><strong>Yield Farms</strong></a> page offers an unfiltered and extensive list of projects that have ongoing yield farming campaigns.</li>
+<li>The <strong><a href="https://yieldfarming.info/" target="_blank" rel="noopener noreferrer">yieldfarming.info</a></strong> site provides a curated list of yield farming opportunities as well as detailed wallet-based stats, such as your estimated annual percentage yield (APY) and more</li>
+<li>Crypto market data site Coingecko also has a new <a href="https://www.coingecko.com/en/yield-farming" target="_blank" rel="noopener noreferrer"><strong>Farms</strong></a> page that hosts top yield farming opportunities and provides tools like an APY calculator, an impermanent loss calculator, and more.</li>
+</ul>
+<hr />
+<h2>Keep in Mind APY + Gas Prices</h2>
+<p>You won&#8217;t want to use or participate in a protocol for yield farming without having a general idea of what kind of APY you can expect for doing so. Some of the sites mentioned above are great for this. Here, a few other things to keep in mind:</p>
+<ul>
+<li>Yield farming projects will show APY stats for their pools on their own sites. These can be deceptive or confusing at best, so don&#8217;t take these stats as the final word.</li>
+<li>Pools with high APYs are high risk, high reward. Tread cautiously.</li>
+<li>APYs shift over time, as yield farming campaigns typically have different distribution phases and so on. Be aware of how these distributions are set up and change (e.g. dwindling token rewards over a period of 4 weeks).</li>
+</ul>
+<p>Then another important consideration is gas. On Ethereum, users have to pay a fee, or &#8220;gas,&#8221; to have their transactions processed.</p>
+<p>Since Ethereum&#8217;s DeFi arena is currently booming, demand for Ethereum blockspace has never been higher and gas prices have skyrocketed accordingly.</p>
+<p>That said, it can be really expensive to enter and exit yield farming positions lately. Make sure you&#8217;re taking into account these gas costs as you try to figure out which opportunities are most feasible for you.</p>
+<hr />
+<h2>Jumping Into Liquidity Pools</h2>
+<p>Yield farming centers around liquidity pools. When you deposit crypto assets to these pools, you receive LP tokens (and thus the possible upside of earning a cut of the pool&#8217;s transaction fees) in return.</p>
+<p>Luckily, it&#8217;s never been easier to provide liquidity to the hottest farming pools using DeFi dashboards like <a href="https://zapper.fi/" target="_blank" rel="noopener noreferrer">Zapper.fi</a> or <a href="http://app.zerion.io" target="_blank" rel="noopener noreferrer">Zerion</a>. These services let you add your assets wherever you like and essentially with the click of a single button. Then, it&#8217;s time for staking.</p>
+<figure id="attachment_43402" aria-describedby="caption-attachment-43402" style="width: 691px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="wp-image-43402" src="https://blockonomi.com/wp-content/uploads/2020/09/Zapper.png" alt="" width="691" height="333" srcset="https://blockonomi.com/wp-content/uploads/2020/09/Zapper.png 1486w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-300x145.png 300w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-1024x493.png 1024w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-768x370.png 768w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-50x24.png 50w" sizes="(max-width: 691px) 100vw, 691px" /><figcaption id="caption-attachment-43402" class="wp-caption-text">Image via Zapper.fi</figcaption></figure>
+<hr />
+<h2>Staking for Making</h2>
+<p>Once you have your LP tokens for your farm of choice, you&#8217;ll want to go stake them in order to start farming your target project&#8217;s governance token. Let&#8217;s take Uniswap&#8217;s new UNI farming for example.</p>
+<p>One of Uniswap&#8217;s first four UNI rewards pools is its ETH/DAI liquidity pool. Let&#8217;s say you hypothetically get your ETH/DAI LP tokens ready. Then you&#8217;d simply head over to Uniswap and follow these steps:</p>
+<ul>
+<li>Click on the UNI tab</li>
+<li>Click on the ETH/DAI Deposit button</li>
+<li>Click on the Stake button</li>
+</ul>
+<figure id="attachment_43405" aria-describedby="caption-attachment-43405" style="width: 449px" class="wp-caption aligncenter"><img decoding="async" class=" wp-image-43405" src="https://blockonomi.com/wp-content/uploads/2020/09/Uni.png" alt="" width="449" height="434" srcset="https://blockonomi.com/wp-content/uploads/2020/09/Uni.png 872w, https://blockonomi.com/wp-content/uploads/2020/09/Uni-300x289.png 300w, https://blockonomi.com/wp-content/uploads/2020/09/Uni-768x741.png 768w, https://blockonomi.com/wp-content/uploads/2020/09/Uni-50x48.png 50w" sizes="(max-width: 449px) 100vw, 449px" /><figcaption id="caption-attachment-43405" class="wp-caption-text">Image via Uniswap</figcaption></figure>
+<p>Complete the transaction, and there you have it: you&#8217;ll start earning UNI automatically for as long as the farming campaign continues. Moreover, you can follow this same general process when it comes to participating in other farms, too.</p>
+<hr />
+<h2>Yield Farming for Beginners: yEarn Vaults</h2>
+<p>yield aggregator protocol <a href="https://twitter.com/iearnfinance" target="_blank" rel="noopener noreferrer">yEarn</a> has become a major hit in DeFi because it automates yield farming and makes it simple. One of yEarn&#8217;s early stars have been its Vaults, which are DeFi products that let you automatically long the collateral you put in.</p>
+<p>For example, consider yEarn&#8217;s yETH Vault. You deposit ETH into the Vault, and then the system starts doing its magic in leveraging that ETH. In doing so, you earn more returns in ETH all the while. It&#8217;s simple, straightforward, and you don&#8217;t have to do anything else besides depositing an asset into the Vault.</p>
+<p>yEarn also offers a variety of Vaults, e.g. a yLINK Vault for those wanting to long Chainlink.</p>
+<hr />
+<h2>The Prospects of Governance Tokens</h2>
+<p>At the end of the day, yield farmers are farming <em>governance tokens</em>. These tokens can be dumped on the market for immediate gains, sure, but they also offer the chance for holders to own and collaborate on the very protocol&#8217;s they use going forward.</p>
+<p>This is all quite new territory, not just within the cryptoeconomy but also the world. Governing these protocols is a huge ongoing experiment. It&#8217;ll be interesting to see how farming and governance play into each other in the years ahead.</p>
+<hr />
+<h2>Bitcoiners Can Join In, Too</h2>
+<p>Just because your portfolio is BTC heavy doesn&#8217;t mean you have to sit on the sidelines when it comes to yield farming.</p>
+<p>In fact, the most popular farming pool in all of DeFi right now is Uniswap&#8217;s ETH/WBTC pool, which currently has over $400 million in <a href="https://www.coingecko.com/en/yield-farming" target="_blank" rel="noopener noreferrer">Value Locked</a> (VL) according to Coingecko. So here&#8217;s what you could think about doing:</p>
+<ul>
+<li><em>Convert some of your BTC to WBTC</em></li>
+<li><em>Deposit your WBTC into Uniswap&#8217;s ETH/WBTC pool</em></li>
+<li><em>Farm UNI (and sell it for more BTC if you want!)</em></li>
+</ul>
+<hr />
+<h2>Beware Risks and Scams</h2>
+<p>There are many risks around yield farming. First off, don&#8217;t go chasing every single yield farming opportunity in trying to find the next big thing. Scammers are popping back up to take advantage of the buzz.</p>
+<p>There&#8217;s also the risk of bugs, hacks, and impermanent loss (which simply means you would&#8217;ve been better off holding your asset, e.g. ETH, rather than serving as an LP for it in a particular pool).</p>
+<p>Once you have your head wrapped around these risks, the fields are yours for farming.</p>
+<p>The post <a href="https://blockonomi.com/yield-farming/">Complete Guide to Yield Farming: How to Participate in Ethereum DeFi&#8217;s Growing Harvests</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">43373</post-id>	</item>
+		<item>
+		<title>CrossFi: Crypto Banking and Blockchain Solutions</title>
+		<link>https://blockonomi.com/crossfi/</link>
+		
+		<dc:creator><![CDATA[Nicholas Say]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 10:26:17 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Guides]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=107123</guid>
+
+					<description><![CDATA[<p>The global banking system, burdened by decades-old infrastructure, has struggled to keep pace with the demands of the digital age. Transactions in countries like the U.S. still take at least one business day to process due to reliance on outdated networks like ACH despite many countries and regions, as well as fintech apps, being able [...]</p>
+<p>The post <a href="https://blockonomi.com/crossfi/">CrossFi: Crypto Banking and Blockchain Solutions</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The global banking system, burdened by decades-old infrastructure, has struggled to keep pace with the demands of the digital age. Transactions in countries like the U.S. still take at least one business day to process due to reliance on outdated networks like ACH despite many countries and regions, as well as fintech apps, being able to offer instant transfers.</p>
+<p><a href="https://crossfi.org/">CrossFi</a> was born from the mission to usher this transformation, bridging the traditional and digital financial worlds into one unified ecosystem with truly global capabilities.</p>
+<p>By integrating the advantages of blockchain&#8217;s decentralization, security, and transparency with the reliability and familiarity of traditional banking, CrossFi delivers a platform designed for the modern age, empowering users to seamlessly transition between fiat and cryptocurrency.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-107138" src="https://blockonomi.com/wp-content/uploads/2024/11/site-1.jpg" alt="" width="1000" height="700" srcset="https://blockonomi.com/wp-content/uploads/2024/11/site-1.jpg 1000w, https://blockonomi.com/wp-content/uploads/2024/11/site-1-300x210.jpg 300w, https://blockonomi.com/wp-content/uploads/2024/11/site-1-768x538.jpg 768w, https://blockonomi.com/wp-content/uploads/2024/11/site-1-50x35.jpg 50w, https://blockonomi.com/wp-content/uploads/2024/11/site-1-150x105.jpg 150w, https://blockonomi.com/wp-content/uploads/2024/11/site-1-450x315.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Many banks continue to use programming languages such as COBOL, a relic of the mid-20th century, making system updates complex and costly. Meanwhile, their user-facing apps and web platforms often lack intuitive design and functionality, leaving customers dissatisfied in an era dominated by seamless digital experiences.</p>
+<p>In contrast, fintech and open banking have redefined financial services, allowing them to experience rapid and sustained growth over the last few years.</p>
+<p>Free from legacy constraints, these innovators leverage modern technologies to offer instant payments, global interoperability, and deep integration with digital ecosystems.</p>
+<p>Solutions like real-time settlement, advanced API-based integrations, and tailored user experiences have positioned fintech as a more agile and consumer-friendly alternative to traditional banks. The only problem? They still rely on existing legacy financial structures, centralized networks, and local currencies.</p>
+<p>The potential for programmable money and automated smart contracts unlocks a future where financial services are faster, more accessible, and more equitable.</p>
+<p>Blockchain and crypto take this revolution further by fixing the limits that fintech and open banking still face today. By enabling decentralized, borderless, and transparent financial systems, they promise to eliminate intermediaries, reduce costs, and increase financial inclusion while offering truly global financial assets.</p>
+<hr />
+<h2>What is CrossFi?</h2>
+<p>Founded in 2023, <a href="https://crossfi.org/about-us/">CrossFi is a decentralized financial ecosystem designed to bridge traditional banking with the world of cryptocurrency.</a> At its core, it offers a Layer 1 blockchain with modular architecture capable of delivering levels of interoperability, scalability, performance, and functionality not offered by any major blockchain network.</p>
+<p>The CrossFi ecosystem is built to address inefficiencies in both traditional finance and decentralized finance (DeFi). It includes a non-custodial payment gateway that connects directly with Web3 wallets, enabling users to maintain control of their funds without relying on intermediaries. This approach ensures secure, transparent transactions and seamless integration of crypto and fiat currencies.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-107139" src="https://blockonomi.com/wp-content/uploads/2024/11/about.jpg" alt="" width="1000" height="700" srcset="https://blockonomi.com/wp-content/uploads/2024/11/about.jpg 1000w, https://blockonomi.com/wp-content/uploads/2024/11/about-300x210.jpg 300w, https://blockonomi.com/wp-content/uploads/2024/11/about-768x538.jpg 768w, https://blockonomi.com/wp-content/uploads/2024/11/about-50x35.jpg 50w, https://blockonomi.com/wp-content/uploads/2024/11/about-150x105.jpg 150w, https://blockonomi.com/wp-content/uploads/2024/11/about-450x315.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>In addition to its blockchain, the CrossFi ecosystem encompasses a comprehensive suite of tools and services, such as its DeFi platform, digital asset mining and exchange platform, and an all-in-one banking app.</p>
+<p>The ecosystem also includes a decentralized debit card, which allows users to spend cryptocurrencies directly from their wallets. To drive ecosystem development, the CrossFi Foundation supports innovation and growth within the network.</p>
+<p>CrossFi’s first feature was launched in March of 2023 when the CrossFi chain went live, serving as the base of the ecosystem.</p>
+<p>The project has reached multiple major milestones ever since, like being listed on major exchanges like MEXC Global and HTX, platforms like CoinMarketCap, running its own large-scale events in Vietnam, winning HTX’s Huobi Prime Vote 7 contest, launching the foundation, etc.</p>
+<p>Over these years, CrossFi has also established partners with projects like Beatland, Uniswap, PancakeSwap, Metamask, Gnome Finance, and many more.</p>
+<hr />
+<h2>CrossFi’s Features</h2>
+<p>The CrossFi ecosystem combines cutting-edge blockchain technology with practical tools to create a bridge between traditional and decentralized financial systems. By combining both web3 and traditional technologies, CrossFi is easily accessible to users who might be new to crypto while remaining valuable for long-time crypto veterans.</p>
+<h3>CrossFi Chain</h3>
+<p><a href="https://crossfi.org/blockchain/">CrossFi Chain</a> is a Layer 1 blockchain built for scalability and interoperability. Its modular architecture integrates Cosmos and Ethereum Virtual Machine (EVM), enabling the chain to achieve up to 1 million operations per second. This unprecedented capacity allows for seamless integration across networks, supporting developers with intuitive tools and offering users a reliable, high-performance environment for financial interactions.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-107141" src="https://blockonomi.com/wp-content/uploads/2024/11/chain.jpg" alt="" width="1000" height="700" srcset="https://blockonomi.com/wp-content/uploads/2024/11/chain.jpg 1000w, https://blockonomi.com/wp-content/uploads/2024/11/chain-300x210.jpg 300w, https://blockonomi.com/wp-content/uploads/2024/11/chain-768x538.jpg 768w, https://blockonomi.com/wp-content/uploads/2024/11/chain-50x35.jpg 50w, https://blockonomi.com/wp-content/uploads/2024/11/chain-150x105.jpg 150w, https://blockonomi.com/wp-content/uploads/2024/11/chain-450x315.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Both Cosmos and Ethereum play different roles in the CrossFi chain. Whereas Cosmos is responsible for reaching consensus, coin emission, and the production, verification, and transaction of blocks, Ethereum’s Virtual Machine handles the smart contracts, and deployment of dApps, and ensures full EVM compatibility.</p>
+<p>The result is the use of a Delegated Proof of Stake consensus protocol which block time can be reduced to as little as 1 second, allowing the network to process up to 100 operations per transaction and 10,000 transactions per second. All of this with a basic transaction fee to the user of only $0.02 per transaction.</p>
+<h3>CrossFi APP</h3>
+<p><a href="https://crossfi.org/web3-bank/">The CrossFi APP</a> serves as a comprehensive Web3 banking solution that combines fiat and cryptocurrency functionalities.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-107142" src="https://blockonomi.com/wp-content/uploads/2024/11/app.jpg" alt="" width="1000" height="700" srcset="https://blockonomi.com/wp-content/uploads/2024/11/app.jpg 1000w, https://blockonomi.com/wp-content/uploads/2024/11/app-300x210.jpg 300w, https://blockonomi.com/wp-content/uploads/2024/11/app-768x538.jpg 768w, https://blockonomi.com/wp-content/uploads/2024/11/app-50x35.jpg 50w, https://blockonomi.com/wp-content/uploads/2024/11/app-150x105.jpg 150w, https://blockonomi.com/wp-content/uploads/2024/11/app-450x315.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Through this platform, users can access the VISA network via the CrossFi Card for non-custodial payments, execute cross-border transfers through SWIFT and IBAN, and manage peer-to-peer transfers by card number. The app’s multi-currency card feature, paired with competitive currency exchange rates, simplifies global transactions.</p>
+<h3>CrossFi xAPP</h3>
+<p>Designed for DeFi enthusiasts and newcomers alike, <a href="https://crossfi.org/xapp/">the CrossFi xAPP</a> expands the ecosystem with tools for advanced decentralized finance operations.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-107143" src="https://blockonomi.com/wp-content/uploads/2024/11/defi.jpg" alt="" width="1000" height="700" srcset="https://blockonomi.com/wp-content/uploads/2024/11/defi.jpg 1000w, https://blockonomi.com/wp-content/uploads/2024/11/defi-300x210.jpg 300w, https://blockonomi.com/wp-content/uploads/2024/11/defi-768x538.jpg 768w, https://blockonomi.com/wp-content/uploads/2024/11/defi-50x35.jpg 50w, https://blockonomi.com/wp-content/uploads/2024/11/defi-150x105.jpg 150w, https://blockonomi.com/wp-content/uploads/2024/11/defi-450x315.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Users can explore investment strategies, acquire native CrossFi assets like XFI and XUSD, and engage with liquidity pools through the CrossFi Automated Market Maker (AMM). Other features include currency swapping, bridge functionality, staking, rewards, escrows, and more.</p>
+<h3>CrossFi Foundation</h3>
+<p><a href="https://xfi.foundation/">The CrossFi Foundation</a> powers the ecosystem’s growth through innovation and community engagement. This self-regulating non-profit organization supports development by funding grants such as its $50 million grant program, hosting hackathons, and facilitating the integration of new projects.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-107144" src="https://blockonomi.com/wp-content/uploads/2024/11/foundation.jpg" alt="" width="1000" height="700" srcset="https://blockonomi.com/wp-content/uploads/2024/11/foundation.jpg 1000w, https://blockonomi.com/wp-content/uploads/2024/11/foundation-300x210.jpg 300w, https://blockonomi.com/wp-content/uploads/2024/11/foundation-768x538.jpg 768w, https://blockonomi.com/wp-content/uploads/2024/11/foundation-50x35.jpg 50w, https://blockonomi.com/wp-content/uploads/2024/11/foundation-150x105.jpg 150w, https://blockonomi.com/wp-content/uploads/2024/11/foundation-450x315.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>With campaigns aimed at user acquisition and influencer collaboration, the foundation strengthens CrossFi’s mission to revolutionize financial services by bringing new key players and products to the ecosystem.</p>
+<hr />
+<h2>The Team</h2>
+<p>The CrossFi team is made up of professionals with solid expertise across various sectors, from blockchain to traditional finance, ensuring that the project benefits from a wealth of experience and knowledge.</p>
+<p>The leadership, for instance, includes experts like Alexander Mamasidikov, a recognized figure in the blockchain and digital marketing space, who’s been behind numerous successful international projects and currently serves as the CEO and Chief Ideologist of the project.</p>
+<p>Alexander is joined by Chief Growth Officer Philip Alexeev, who brings a wealth of experience in growth strategy from top Web3 projects like Binance and Decentraland, playing a crucial role in CrossFi&#8217;s expansion. Additionally, Christina Sidfeldt Welin serves as CEO in Hong Kong, adding a strong foundation of governance and compliance to ensure CrossFi adheres to the highest standards across global markets.</p>
+<p>What sets CrossFi apart is not only its leadership but also its partnerships with some of the biggest names in the industry. Collaborations with projects like Beatland, Uniswap, PancakeSwap, and Metamask provide CrossFi with a strong foundation in DeFi and blockchain ecosystems, further solidifying its reputation as an innovative, reliable player in the market.</p>
+<hr />
+<h2>Conclusion</h2>
+<p>For years, the evolution of financial services has been promised but slow to materialize. Despite numerous discussions around modernization, it has taken far too long for these changes to come to fruition. CrossFi is breaking the walls between traditional finance and the finance that prevented this modernization by addressing the core inefficiencies that plague existing banking systems.</p>
+<p>By merging decentralized finance and established banking solutions, CrossFi aims to provide a modern platform for users to fluidly navigate between fiat and cryptocurrencies. It tackles the critical issues of slow, costly transactions by implementing a blockchain’s top scalability, reliability, and low transaction fee capabilities.</p>
+<p>The ecosystem enables users to enjoy fluid integration with Web3 wallets, non-custodial payments via its Visa-connected card, and advanced DeFi functionalities like liquidity pools and staking, all while staying compliant with global standards.</p>
+<p><a href="https://crossfi.org/">CrossFi’s</a> innovative approach fills that gap, paving the way for the transformation that the financial world and, most importantly, its users, have been waiting for.</p>
+<p>The post <a href="https://blockonomi.com/crossfi/">CrossFi: Crypto Banking and Blockchain Solutions</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">107123</post-id>	</item>
+		<item>
+		<title>Tornado Cash Ruling Leads to Market-Wide DeFi Token Surge</title>
+		<link>https://blockonomi.com/tornado-cash-ruling-leads-to-market-wide-defi-token-surge/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 11:10:49 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=107064</guid>
+
+					<description><![CDATA[<p>TLDR Fifth Circuit Court ruled that immutable smart contracts can&#8217;t be sanctioned as property, favoring Tornado Cash TORN token surged over 380% following the ruling, reaching nearly $35 before settling at $17.17 DeFi market cap increased by 8.2% daily and 21.5% weekly after the decision Major DeFi tokens like Uniswap, Aave, and Ethena reached multi-month [...]</p>
+<p>The post <a href="https://blockonomi.com/tornado-cash-ruling-leads-to-market-wide-defi-token-surge/">Tornado Cash Ruling Leads to Market-Wide DeFi Token Surge</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li class="whitespace-normal break-words">Fifth Circuit Court ruled that immutable smart contracts can&#8217;t be sanctioned as property, favoring Tornado Cash</li>
+<li class="whitespace-normal break-words">TORN token surged over 380% following the ruling, reaching nearly $35 before settling at $17.17</li>
+<li class="whitespace-normal break-words">DeFi market cap increased by 8.2% daily and 21.5% weekly after the decision</li>
+<li class="whitespace-normal break-words">Major DeFi tokens like Uniswap, Aave, and Ethena reached multi-month highs</li>
+<li class="whitespace-normal break-words">Tornado Cash developer Alexey Pertsev remains in custody despite the favorable ruling</li>
+</ul>
+<hr />
+<p class="whitespace-pre-wrap break-words">The Fifth Circuit Court delivered a landmark ruling on Tuesday, determining that immutable smart contracts cannot be classified as property or be subject to sanctions under current laws. The decision directly challenges the U.S. Treasury&#8217;s previous sanctions on the cryptocurrency mixer Tornado Cash.</p>
+<p class="whitespace-pre-wrap break-words">The court&#8217;s ruling specifically addressed the nature of autonomous software in the blockchain space, stating that when smart contracts are immutable – meaning no entity can modify or control them – they fall outside the traditional definition of property that can be sanctioned under existing legal frameworks.</p>
+<p class="whitespace-pre-wrap break-words"><a href="https://decrypt.co/293944/tornado-cash-ruling-a-positive-boon-for-ethereum-and-defi-says-10x-research">Markets responded swiftly to the news, with Tornado Cash&#8217;s native token TORN experiencing a dramatic price increase.</a> The token surged to almost $35 on Tuesday morning, marking a 380% gain. By the time of reporting, TORN had settled at $17.17, still maintaining a 382.9% increase over its pre-ruling price.</p>
+<p class="whitespace-pre-wrap break-words">The decision sparked a broader rally across the decentralized finance (DeFi) sector. The total DeFi market capitalization rose 8.2% in 24 hours and accumulated a 21.5% increase over the week, according to data from CoinGecko.</p>
+<figure id="attachment_107065" aria-describedby="caption-attachment-107065" style="width: 847px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-full wp-image-107065" src="https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko.png" alt="Torn Price on CoinGecko" width="847" height="635" srcset="https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko.png 847w, https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko-300x225.png 300w, https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko-768x576.png 768w, https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko-50x37.png 50w, https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko-150x112.png 150w, https://blockonomi.com/wp-content/uploads/2024/11/Screenshot-2024-11-28-at-11-09-26-Tornado-Cash-Price-TORN-Live-Price-Chart-Market-Cap-News-Today-CoinGecko-450x337.png 450w" sizes="(max-width: 847px) 100vw, 847px" /><figcaption id="caption-attachment-107065" class="wp-caption-text">Torn Price on <a href="https://www.coingecko.com/en/coins/tornado-cash">CoinGecko</a></figcaption></figure>
+<p class="whitespace-pre-wrap break-words">Major DeFi protocols recorded notable gains following the announcement. Uniswap&#8217;s UNI token climbed 11% to reach $12.50, its highest point in eight months. Similarly, Aave&#8217;s AAVE token rose by 8.6%, while Ethena&#8217;s ENA token increased by 23%, both reaching multi-month highs.</p>
+<p class="whitespace-pre-wrap break-words">Former Coinbase CTO Balaji Srinivasan celebrated the ruling on X (formerly Twitter), declaring, &#8220;Privacy won. Smart contracts won. Tornado Cash won. And OFAC lost.&#8221;</p>
+<p class="whitespace-pre-wrap break-words">Investment research firm 10X Research noted in their analysis that while the ruling does not endorse money laundering, it creates a precedent that allows programmers to develop and release smart contract protocols without fear of sanctions, provided they do not charge fees.</p>
+<p class="whitespace-pre-wrap break-words">The impact appears particularly positive for the Ethereum network, which hosts the majority of decentralized applications and DeFi protocols. The ruling provides developers with clearer guidelines about what they can build without risking regulatory intervention.</p>
+<p class="whitespace-pre-wrap break-words">Privacy-focused cryptocurrencies initially saw price increases following the news but have since moderated their gains to around 2% over the past 24 hours.</p>
+<p class="whitespace-pre-wrap break-words">The broader cryptocurrency market also showed strength, with Bitcoin reaching $97,360 before settling at $96,320, showing a 5% increase over 24 hours.</p>
+<p class="whitespace-pre-wrap break-words">While the ruling represents a legal victory for privacy advocates and blockchain developers, it&#8217;s worth noting that Alexey Pertsev, a Tornado Cash developer, remains in custody. Pertsev, who was found guilty by a Dutch court in May on money laundering charges, recently announced that his pre-trial detention has been extended.</p>
+<p class="whitespace-pre-wrap break-words">10X Research emphasized that this decision could have far-reaching effects for the DeFi ecosystem, particularly for protocols operating on the Ethereum network.</p>
+<p class="whitespace-pre-wrap break-words">The ruling creates a distinction between immutable smart contracts and traditional property, potentially reshaping how regulatory bodies approach decentralized technologies.</p>
+<p class="whitespace-pre-wrap break-words">For developers in the space, the decision provides a clearer framework for creating new protocols without immediate regulatory concerns, as long as they maintain true immutability and avoid fee structures.</p>
+<p class="whitespace-pre-wrap break-words">The market response suggests investors view this as a positive development for the broader cryptocurrency ecosystem, particularly for platforms focused on privacy and decentralized finance.</p>
+<p>The post <a href="https://blockonomi.com/tornado-cash-ruling-leads-to-market-wide-defi-token-surge/">Tornado Cash Ruling Leads to Market-Wide DeFi Token Surge</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">107064</post-id>	</item>
+		<item>
+		<title>Uniswap (UNI) Price Rise as Company Announces $15.5M Bug Bounty Program Ahead of V4 Launch</title>
+		<link>https://blockonomi.com/uniswap-uni-price-rise-as-company-announces-15-5m-bug-bounty-program-ahead-of-v4-launch/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 09:44:53 +0000</pubDate>
+				<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=106975</guid>
+
+					<description><![CDATA[<p>TLDR Uniswap Labs launches record $15.5M bug bounty program for v4 core contracts Bounty payouts range from $2,000 to $15.5M based on vulnerability severity UNI token price surged 30% reaching $11.50, rebounding from $8.64 support Whale transactions increased 255% in 24 hours showing institutional interest Previous $2.35M security competition had 500+ researchers with no critical [...]</p>
+<p>The post <a href="https://blockonomi.com/uniswap-uni-price-rise-as-company-announces-15-5m-bug-bounty-program-ahead-of-v4-launch/">Uniswap (UNI) Price Rise as Company Announces $15.5M Bug Bounty Program Ahead of V4 Launch</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li>Uniswap Labs launches record $15.5M bug bounty program for v4 core contracts</li>
+<li>Bounty payouts range from $2,000 to $15.5M based on vulnerability severity</li>
+<li>UNI token price surged 30% reaching $11.50, rebounding from $8.64 support</li>
+<li>Whale transactions increased 255% in 24 hours showing institutional interest</li>
+<li>Previous $2.35M security competition had 500+ researchers with no critical vulnerabilities found</li>
+</ul>
+<hr />
+<p><a href="https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be">Uniswap Labs has launched a $15.5 million bug bounty program</a> for its upcoming v4 core contracts, marking what the company calls the largest bounty program in history. The announcement comes as the platform&#8217;s native token, UNI, experiences a notable 30% price increase.</p>
+<p>The new bounty program offers rewards starting at $2,000 and potentially reaching the full $15.5 million for researchers who discover critical vulnerabilities in the platform&#8217;s code. Uniswap Labs has structured the program to encourage thorough security testing before the release of its v4 update.</p>
+<p>According to the program&#8217;s terms, researchers can earn different reward levels based on the severity of discovered vulnerabilities. Critical flaws that lead to code changes qualify for the maximum $15.5 million reward, while high-risk discoveries could result in payments up to $1 million.</p>
+<p>The medium-risk vulnerability findings will receive rewards up to $100,000. Low-risk discoveries will be compensated on a case-by-case basis, with the exact amount determined at Uniswap&#8217;s discretion.</p>
+<p>Prior to this announcement, Uniswap Labs conducted a smaller security competition with a $2.35 million prize pool. Over 500 researchers participated in that event, and notably, no critical vulnerabilities were discovered during the testing period.</p>
+<p>The scope of the current bounty program extends beyond just the core contracts. Researchers can also investigate and report issues in other contracts, websites, back-end systems, and the Uniswap v4 wallet code.</p>
+<p>While the bounty program develops, Uniswap&#8217;s native token UNI has shown strong market performance. The token price has increased by 30%, rising from a support level of $8.64 to reach $11.50.</p>
+<h2>UNI On The Rise</h2>
+<p>Market data reveals a surge in whale activity, with large transactions increasing by 255% over a 24-hour period. This spike suggests growing interest from institutional investors and large-scale traders in the UNI token.</p>
+<p>Exchange inflow data shows increased activity, indicating that market participants may be positioning themselves for potential price movements. This increased trading activity coincides with the overall positive momentum in UNI&#8217;s price action.</p>
+<p>However, data from Santiment reveals a decline in the number of UNI holders since November 20. This decrease might represent profit-taking by some investors during the recent price surge.</p>
+<p>The technical indicators for UNI present a mixed picture. The token&#8217;s stochastic RSI indicates overbought conditions, which typically suggests a potential price correction. However, in strong upward trends, such conditions can persist while prices continue to rise.</p>
+<figure id="attachment_106978" aria-describedby="caption-attachment-106978" style="width: 861px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-full wp-image-106978" src="https://blockonomi.com/wp-content/uploads/2024/11/uni-price.png" alt=" UniswapUNI Price" width="861" height="649" srcset="https://blockonomi.com/wp-content/uploads/2024/11/uni-price.png 861w, https://blockonomi.com/wp-content/uploads/2024/11/uni-price-300x226.png 300w, https://blockonomi.com/wp-content/uploads/2024/11/uni-price-768x579.png 768w, https://blockonomi.com/wp-content/uploads/2024/11/uni-price-50x38.png 50w, https://blockonomi.com/wp-content/uploads/2024/11/uni-price-150x113.png 150w, https://blockonomi.com/wp-content/uploads/2024/11/uni-price-450x339.png 450w" sizes="(max-width: 861px) 100vw, 861px" /><figcaption id="caption-attachment-106978" class="wp-caption-text">Uniswap<br /><a href="https://www.coingecko.com/en/coins/uniswap">UNI Price</a></figcaption></figure>
+<p>Comparisons to other major bug bounty programs provide context for Uniswap&#8217;s initiative. Google&#8217;s highest single vulnerability payout reached $605,000 in 2022, with total yearly payments of $12 million. Microsoft recently announced $4 million in bounties for cloud and AI security research.</p>
+<p>The bug bounty platform Immunefi reportedly paid out $14.82 million in 2021, making Uniswap&#8217;s potential maximum payout of $15.5 million the largest single bounty offering in recent memory, if claimed.</p>
+<p>Uniswap Labs described this expanded bounty program as &#8220;an extra step to ensure v4 is as secure as possible.&#8221; The program demonstrates the platform&#8217;s commitment to security as it prepares for its v4 release.</p>
+<p>The combination of the security initiative and positive market performance has placed Uniswap in the spotlight of the cryptocurrency community, as both developers and traders watch the platform&#8217;s developments closely.</p>
+<p>The post <a href="https://blockonomi.com/uniswap-uni-price-rise-as-company-announces-15-5m-bug-bounty-program-ahead-of-v4-launch/">Uniswap (UNI) Price Rise as Company Announces $15.5M Bug Bounty Program Ahead of V4 Launch</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">106975</post-id>	</item>
+		<item>
+		<title>Solana&#8217;s DeFi Ecosystem Expands to $5.7 Billion TVL as Platform Gains Users and Institutional Interest</title>
+		<link>https://blockonomi.com/solanas-defi-ecosystem-expands-to-5-7-billion-tvl-as-platform-gains-users-and-institutional-interest/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2024 10:18:05 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=105400</guid>
+
+					<description><![CDATA[<p>TLDR: Solana&#8217;s DeFi TVL reached $5.7 billion in Q3, up 26% from Q2 Daily active users approaching 7 million, largely driven by meme coin trading Kamino leads with $1.5 billion TVL, showing 57% growth SOL price reached $185 recently, up 50% in two months Institutional support growing with Robinhood and VanEck offerings The Solana blockchain [...]</p>
+<p>The post <a href="https://blockonomi.com/solanas-defi-ecosystem-expands-to-5-7-billion-tvl-as-platform-gains-users-and-institutional-interest/">Solana&#8217;s DeFi Ecosystem Expands to $5.7 Billion TVL as Platform Gains Users and Institutional Interest</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR:</h2>
+<ul>
+<li>Solana&#8217;s DeFi TVL reached $5.7 billion in Q3, up 26% from Q2</li>
+<li>Daily active users approaching 7 million, largely driven by meme coin trading</li>
+<li>Kamino leads with $1.5 billion TVL, showing 57% growth</li>
+<li>SOL price reached $185 recently, up 50% in two months</li>
+<li>Institutional support growing with Robinhood and VanEck offerings</li>
+</ul>
+<hr />
+<p>The Solana blockchain<a href="https://messari.io/report/state-of-solana-q3-2024"> has recorded a quarter of strong growth</a>, with its Total Value Locked (TVL) in decentralized finance reaching $5.7 billion in the third quarter of 2024, marking a 26% increase from the previous quarter.</p>
+<p>Kamino Finance emerged as the leading protocol on Solana, managing $1.5 billion in TVL and achieving a 57% growth rate. The platform&#8217;s success stems from recent integrations of jupSOL and PYUSD, along with the launch of Kamino Lend V2, which introduced a permissionless vault and market layer.</p>
+<p>Daily active users on the Solana network peaked at nearly 7 million, though the number has recently settled around 5.5 million. Much of this activity comes from meme coin traders operating on decentralized exchanges like Raydium and Jupiter.</p>
+<figure id="attachment_105402" aria-describedby="caption-attachment-105402" style="width: 814px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-large wp-image-105402" src="https://blockonomi.com/wp-content/uploads/2024/11/sol-1400x831.webp" alt="Key Metrics" width="814" height="483" srcset="https://blockonomi.com/wp-content/uploads/2024/11/sol-1400x831.webp 1400w, https://blockonomi.com/wp-content/uploads/2024/11/sol-300x178.webp 300w, https://blockonomi.com/wp-content/uploads/2024/11/sol-768x456.webp 768w, https://blockonomi.com/wp-content/uploads/2024/11/sol-1536x912.webp 1536w, https://blockonomi.com/wp-content/uploads/2024/11/sol-50x30.webp 50w, https://blockonomi.com/wp-content/uploads/2024/11/sol-150x89.webp 150w, https://blockonomi.com/wp-content/uploads/2024/11/sol-450x267.webp 450w, https://blockonomi.com/wp-content/uploads/2024/11/sol-1200x713.webp 1200w, https://blockonomi.com/wp-content/uploads/2024/11/sol.webp 1600w" sizes="(max-width: 814px) 100vw, 814px" /><figcaption id="caption-attachment-105402" class="wp-caption-text">Key Metrics, Source: <a href="https://messari.io/report/state-of-solana-q3-2024">Messari</a></figcaption></figure>
+<p>Raydium maintains its position as the dominant decentralized exchange on Solana, controlling 51% of market share. However, its daily average volume decreased by 13% to $852 million. The launch of Moonshot, a mobile trading app, helped add $350 million in volume.</p>
+<p>Jupiter secured 43% of the total spot exchange volume, bolstered by new developments including Jupiter Mobile and integration with payment services like Google Pay and Apple Pay. Despite these achievements, overall DEX activity showed a 10% decline quarter-over-quarter, with a slight recovery noted in October.</p>
+<p>The platform&#8217;s stablecoin market received a boost from PayPal&#8217;s PYUSD, which launched on Solana in May. This integration helped push Solana&#8217;s stablecoin market cap to $3.8 billion. PYUSD&#8217;s features, including programmable transfers and transfer hooks, have driven its adoption.</p>
+<p>USDC remains a key player in Solana&#8217;s stablecoin ecosystem. Circle&#8217;s Web 3.0 services integration provides enterprise functionality, including fee sponsorship and programmable wallets, enabling developers to implement multi-chain solutions.</p>
+<p>Solana&#8217;s price performance has shown volatility, recently touching $185 before pulling back. The cryptocurrency has gained approximately 50% over the past two months, breaking above the $150 mark. Technical analysts suggest $150 serves as a support level, potentially setting up for moves toward $200.</p>
+<p>The network&#8217;s meme coin phenomenon has played a role in its growth since January. The launch platform Pump.fun has facilitated numerous token releases, each requiring SOL tokens for liquidity provision, creating steady demand pressure.</p>
+<p>Beyond meme coins, Solana&#8217;s DeFi ecosystem includes mature protocols like Jito, a liquidity staking platform managing over $2.4 billion. Other notable projects include Solayer and Ondo Finance, which manage $275 million and $127 million respectively.</p>
+<p>Institutional interest in Solana continues to grow. Robinhood recently expanded its offerings to include SOL for European Union clients. VanEck, known for its spot Bitcoin and Ethereum ETF applications, launched Europe&#8217;s first Solana exchange-traded note (ETN), which includes staking rewards.</p>
+<p>The DEX segment shows mixed results, with daily volume averaging $1.7 billion despite the overall quarterly decline. This decrease was partly attributed to reduced meme coin trading activity, though October showed early signs of recovery.</p>
+<p>Analysts expect Kamino Finance to maintain its market leadership as it plans to add new features, including Spot Leverage and Lending Orderbook capabilities. These developments could further strengthen Solana&#8217;s position in the DeFi landscape.</p>
+<p>Circle&#8217;s integration of Web 3.0 services for Solana provides additional enterprise features that may attract more developers and projects to the platform. These features aim to simplify the integration of multi-chain solutions for developers.</p>
+<p>The post <a href="https://blockonomi.com/solanas-defi-ecosystem-expands-to-5-7-billion-tvl-as-platform-gains-users-and-institutional-interest/">Solana&#8217;s DeFi Ecosystem Expands to $5.7 Billion TVL as Platform Gains Users and Institutional Interest</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">105400</post-id>	</item>
+		<item>
+		<title>Kraken Announces Ink: New Ethereum L2 Blockchain for 2025 Launch</title>
+		<link>https://blockonomi.com/kraken-announces-ink-new-ethereum-l2-blockchain-for-2025-launch/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Fri, 25 Oct 2024 08:32:01 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=104889</guid>
+
+					<description><![CDATA[<p>TLDR: Kraken plans to launch Ink blockchain in early 2025 as an Ethereum Layer 2 rollup Built on Optimism&#8217;s Superchain technology, similar to Coinbase&#8217;s Base No native token planned, but will integrate DeFi tools within Kraken Wallet app Developer testnet launching in late 2024 Aims to simplify DeFi access for Kraken&#8217;s 10+ million users Kraken, [...]</p>
+<p>The post <a href="https://blockonomi.com/kraken-announces-ink-new-ethereum-l2-blockchain-for-2025-launch/">Kraken Announces Ink: New Ethereum L2 Blockchain for 2025 Launch</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR:</h2>
+<ul>
+<li>Kraken plans to launch Ink blockchain in early 2025 as an Ethereum Layer 2 rollup</li>
+<li>Built on Optimism&#8217;s Superchain technology, similar to Coinbase&#8217;s Base</li>
+<li>No native token planned, but will integrate DeFi tools within Kraken Wallet app</li>
+<li>Developer testnet launching in late 2024</li>
+<li>Aims to simplify DeFi access for Kraken&#8217;s 10+ million users</li>
+</ul>
+<hr />
+<p>Kraken, one of the largest cryptocurrency exchanges in the United States,<a href="https://blog.kraken.com/news/announcing-ink"> has announced plans to launch its own blockchain called Ink in early 2025</a>. The new platform will be built as an Ethereum Layer 2 rollup using Optimism&#8217;s technology, following a similar path to Coinbase&#8217;s successful Base blockchain.</p>
+<p>The development of Ink represents Kraken&#8217;s strategic move to bridge the gap between centralized and decentralized finance. While the exchange currently serves over 10 million users worldwide through its centralized platform, Ink aims to simplify access to decentralized finance (DeFi) applications and services.</p>
+<p>Unlike some blockchain launches, Kraken has confirmed it will not issue a native token for Ink. Instead, the platform will focus on integrating various DeFi tools, including decentralized exchanges and yield-generating platforms, directly within the Kraken Wallet app.</p>
+<p>Andrew Koller, Ink&#8217;s founder, emphasized the platform&#8217;s goal of enabling users to move seamlessly between centralized and decentralized services. This integration is designed to make DeFi more accessible to mainstream users who might find current systems complicated or intimidating.</p>
+<p>The technical infrastructure of Ink will be built on Optimism&#8217;s open-source OP Stack codebase, making it part of the broader Ethereum ecosystem. This choice ensures Ink will benefit from Ethereum&#8217;s security while participating in the Optimism Superchain, a network of interconnected blockchains.</p>
+<p>Kraken plans to serve as Ink&#8217;s sequencer, managing and organizing network transactions. This role could prove financially beneficial, as demonstrated by Coinbase&#8217;s experience with Base, which generated $53 million in sequencer revenue in the second quarter alone.</p>
+<p>To ensure a robust ecosystem at launch, Ink will debut with more than a dozen decentralized applications. The platform also has plans to expand into real-world assets and advanced lending platforms in the future.</p>
+<p>Developers will have early access to Ink through a testnet launching in late 2024. This will allow them to experiment with building decentralized applications before the main network launch in 2025. Kraken is providing comprehensive support for developers, including documentation, tutorials, and technical guidance.</p>
+<p>The launch of Ink follows Kraken&#8217;s recent expansion into other crypto services. In October, the exchange opened a derivatives trading platform in Bermuda after receiving regulatory approval from the Bermuda Monetary Authority.</p>
+<p>Ink will join a growing network of Optimism-based blockchains, including projects from major companies like Sony, Uniswap, and World. This alignment with Optimism&#8217;s technology will enable Ink to participate in planned interoperability improvements scheduled for 2025.</p>
+<p>When launched, Ink will support SuperchainERC20, a new token standard that will facilitate easier movement of assets between different Optimism-based blockchains. This feature aims to address current challenges with liquidity fragmentation in the Ethereum ecosystem.</p>
+<p>Kraken is positioning Ink as the only major Western exchange-backed blockchain specifically focused on DeFi user experience. The platform emphasizes capital efficiency and community-driven innovation as key priorities.</p>
+<p>To support early adoption, Kraken has announced several initiatives, including a limited-edition NFT release in partnership with Optimism and developer events planned around major industry conferences.</p>
+<p>The development team has established multiple community channels, including Discord for developers and Telegram for users, to facilitate engagement and provide updates as the project progresses toward its 2025 launch.</p>
+<p>The post <a href="https://blockonomi.com/kraken-announces-ink-new-ethereum-l2-blockchain-for-2025-launch/">Kraken Announces Ink: New Ethereum L2 Blockchain for 2025 Launch</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">104889</post-id>	</item>
+		<item>
+		<title>MakerDAO Considers Reverting Sky Rebrand as SKY Token Struggles to Gain Traction</title>
+		<link>https://blockonomi.com/makerdao-considers-reverting-sky-rebrand-as-sky-token-struggles-to-gain-traction/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2024 10:45:13 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=104816</guid>
+
+					<description><![CDATA[<p>TLDR: MakerDAO considering abandoning Sky rebrand after lukewarm reception SKY token underperformed with only 8% of MKR tokens converted USDS stablecoin launch successful with $1.2B supply and 6.5% savings rate Community shows strong preference for original Maker brand Formal governance vote scheduled for November 4th on brand direction MakerDAO, a leading decentralized finance protocol, is [...]</p>
+<p>The post <a href="https://blockonomi.com/makerdao-considers-reverting-sky-rebrand-as-sky-token-struggles-to-gain-traction/">MakerDAO Considers Reverting Sky Rebrand as SKY Token Struggles to Gain Traction</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR:</h2>
+<ul>
+<li>MakerDAO considering abandoning Sky rebrand after lukewarm reception</li>
+<li>SKY token underperformed with only 8% of MKR tokens converted</li>
+<li>USDS stablecoin launch successful with $1.2B supply and 6.5% savings rate</li>
+<li>Community shows strong preference for original Maker brand</li>
+<li>Formal governance vote scheduled for November 4th on brand direction</li>
+</ul>
+<hr />
+<p>MakerDAO, a leading decentralized finance protocol<a href="https://www.coindesk.com/markets/2024/10/23/makerdao-contemplates-dropping-sky-brand-as-community-debates/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines">, is considering abandoning its recent Sky rebrand</a> after receiving mixed feedback from the community and experiencing underwhelming token performance.</p>
+<p>The protocol&#8217;s founder, Rune Christensen, announced that a formal governance vote will take place on November 4 to determine the project&#8217;s brand direction.</p>
+<p>The rebranding initiative, which cost approximately $25 million in combined DAI and MKR tokens, has faced several challenges since its implementation.</p>
+<p>Most notably, the SKY token, introduced as a replacement for the MKR governance token, has significantly underperformed market expectations. Data shows that only 8% of MKR tokens have been converted to SKY tokens, indicating a strong reluctance from holders to embrace the new system.</p>
+<h2>Market Performance and Token Migration</h2>
+<p>The SKY token&#8217;s performance has been particularly concerning, with a 23% decline in value over the past two weeks while the CoinDesk 20 index gained 10%.</p>
+<p>This stark contrast in performance has raised questions about the effectiveness of the rebranding strategy. The MKR token has also struggled, showing a 24% decrease year-over-year.</p>
+<p>Despite the challenges with the SKY token, the protocol&#8217;s new USDS stablecoin has shown promising results. Launched in August, USDS has achieved a supply of $1.2 billion and currently offers a 6.5% savings rate. The stablecoin&#8217;s success demonstrates that certain aspects of the Sky ecosystem have gained traction within the DeFi community.</p>
+<h2>Community Response and Exchange Adoption</h2>
+<p>A significant setback for the SKY token has been its limited adoption by centralized exchanges (CEXes). Christensen acknowledged this as a &#8220;typical DeFi mistake,&#8221; noting that he had underestimated the importance of CEX listings for liquidity and adoption.</p>
+<p>Community members have pointed out that the lack of recognition from major platforms like Coingecko has been a clear indicator of the rebrand&#8217;s challenges.</p>
+<p>Christensen has presented three potential options for the protocol&#8217;s future:</p>
+<ol>
+<li><strong>Continue building with Sky as the core brand</strong></li>
+<li><strong>Return to the original Maker brand and reinstate MKR as the sole governance token</strong></li>
+<li><strong>Develop a refreshed version of the Maker brand that incorporates elements of the current ecosystem</strong></li>
+</ol>
+<p>User feedback has consistently emphasized strong affinity for the original Maker brand, with many community members expressing that while they appreciate the USDS stablecoin, they see no need to alter the established Maker identity. This sentiment has played a crucial role in prompting the upcoming governance vote.</p>
+<p>The protocol plans to host a community call to gather additional feedback before the formal governance poll begins on November 4. This vote will determine whether MakerDAO maintains its current path or returns to its original branding strategy.</p>
+<p>The post <a href="https://blockonomi.com/makerdao-considers-reverting-sky-rebrand-as-sky-token-struggles-to-gain-traction/">MakerDAO Considers Reverting Sky Rebrand as SKY Token Struggles to Gain Traction</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">104816</post-id>	</item>
+		<item>
+		<title>DeFi Leader Lido Finance Introduces stETH on Optimism Network</title>
+		<link>https://blockonomi.com/__trashed-4/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2024 09:46:15 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=104386</guid>
+
+					<description><![CDATA[<p>TLDR Lido Finance expands to Optimism, allowing stETH deployment on the layer-2 solution Users can benefit from daily staking rewards and multichain opportunities Lido Finance is pursuing a multichain strategy, offering stETH on multiple layer-2 platforms The platform manages over $25 billion in total value locked (TVL) Despite ecosystem growth, LDO token is down 72% [...]</p>
+<p>The post <a href="https://blockonomi.com/__trashed-4/">DeFi Leader Lido Finance Introduces stETH on Optimism Network</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li class="whitespace-normal break-words">Lido Finance expands to Optimism, allowing stETH deployment on the layer-2 solution</li>
+<li class="whitespace-normal break-words">Users can benefit from daily staking rewards and multichain opportunities</li>
+<li class="whitespace-normal break-words">Lido Finance is pursuing a multichain strategy, offering stETH on multiple layer-2 platforms</li>
+<li class="whitespace-normal break-words">The platform manages over $25 billion in total value locked (TVL)</li>
+<li class="whitespace-normal break-words">Despite ecosystem growth, LDO token is down 72% from its March peak</li>
+</ul>
+<hr />
+<p class="whitespace-pre-wrap break-words">Lido Finance, the leading decentralized finance (DeFi) platform by assets under management, has announced its expansion to Optimism, an Ethereum layer-2 scaling solution.</p>
+<p class="whitespace-pre-wrap break-words">This move allows users to deploy Lido&#8217;s stETH token on Optimism, opening up new opportunities for staking and yield generation.</p>
+<p class="whitespace-pre-wrap break-words">The expansion to Optimism is part of Lido Finance&#8217;s broader multichain strategy. By offering stETH and wstETH on various layer-2 platforms, including Arbitrum, Base, Linea, and Scroll, Lido aims to provide users with more flexible options for staking their Ethereum (ETH).</p>
+<p class="whitespace-pre-wrap break-words"><a href="https://blog.lido.fi/lidos-steth-joins-wsteth-on-op-mainnet/">Lido Finance&#8217;s blog post</a> highlights that users who choose to deploy their stETH on Optimism will enjoy daily staking rewards. Additionally, they will benefit from a seamless bridging experience and access to new multichain opportunities.</p>
+<p class="whitespace-pre-wrap break-words">This expansion is expected to enhance user experience by offering cheaper transactions, as <a href="https://moneycheck.com/best-ethereum-casinos/">Ethereum</a> layer-2 solutions are designed for scalability and cost-efficiency.</p>
+<p class="whitespace-pre-wrap break-words">The platform&#8217;s growth comes in the wake of Ethereum&#8217;s transition from a proof-of-work to a proof-of-stake consensus mechanism in 2022, known as &#8220;The Merge.&#8221; This shift introduced a staking system where validators secure and process transactions on the network.</p>
+<p class="whitespace-pre-wrap break-words">To operate a full node and compete for block rewards, users need to lock in 32 ETH, a threshold that is out of reach for many individual investors.</p>
+<p class="whitespace-pre-wrap break-words">Lido Finance addresses this barrier by allowing users to stake smaller amounts of ETH without the need for running a full node. This service has proven popular, contributing to Lido&#8217;s significant market position in the DeFi space.</p>
+<p class="whitespace-pre-wrap break-words">As of October 16, 2023, <a href="https://defillama.com/protocol/lido#information">data from DeFiLlama</a> shows that Lido Finance manages over $25 billion in total value locked (TVL). The protocol has generated impressive revenue, with over $845 million earned in the past year and more than $1.8 billion since its launch.</p>
+<p class="whitespace-pre-wrap break-words">Lido Finance not only supports Ethereum staking but also enables ETH holders on several layer-2 networks to stake directly from these off-chain solutions.</p>
+<p class="whitespace-pre-wrap break-words">This approach aligns with the growing trend of layer-2 adoption in the Ethereum ecosystem, which aims to improve scalability and reduce transaction costs.</p>
+<p class="whitespace-pre-wrap break-words">Despite Lido Finance&#8217;s expanding ecosystem and strong market position, its native token, LDO, has faced challenges in the cryptocurrency market.</p>
+<p class="whitespace-pre-wrap break-words">After reaching a peak in March 2023, LDO has experienced a significant downturn, with its value declining by 72% over the past nine months. This price action contrasts with the platform&#8217;s growth in terms of assets under management and network expansion.</p>
+<p class="whitespace-pre-wrap break-words">The recent gains observed on October 14 have not been sufficient to break above September highs or reverse the losses accumulated since March.</p>
+<p class="whitespace-pre-wrap break-words">This price performance highlights the complex relationship between platform adoption and token value in the DeFi sector.</p>
+<p>The post <a href="https://blockonomi.com/__trashed-4/">DeFi Leader Lido Finance Introduces stETH on Optimism Network</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">104386</post-id>	</item>
+		<item>
+		<title>Kraken Introduces Ethereum Restaking Feature Using EigenLayer Protocol</title>
+		<link>https://blockonomi.com/kraken-introduces-ethereum-restaking-feature-using-eigenlayer-protocol/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2024 08:54:16 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=104286</guid>
+
+					<description><![CDATA[<p>TLDR: Kraken launched Ethereum restaking via EigenLayer for non-U.S. customers Restaking allows users to earn additional rewards on already staked ETH Kraken subsidiary Staked will act as the validator for restaked ETH Total value locked in liquid restaking tokens has grown over 3000% this year EigenLayer&#8217;s EIGEN token recently unlocked for trading at a $6.7 [...]</p>
+<p>The post <a href="https://blockonomi.com/kraken-introduces-ethereum-restaking-feature-using-eigenlayer-protocol/">Kraken Introduces Ethereum Restaking Feature Using EigenLayer Protocol</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR:</h2>
+<ul>
+<li>Kraken launched Ethereum restaking via EigenLayer for non-U.S. customers</li>
+<li>Restaking allows users to earn additional rewards on already staked ETH</li>
+<li>Kraken subsidiary Staked will act as the validator for restaked ETH</li>
+<li>Total value locked in liquid restaking tokens has grown over 3000% this year</li>
+<li>EigenLayer&#8217;s EIGEN token recently unlocked for trading at a $6.7 billion valuation</li>
+</ul>
+<hr />
+<p>Kraken, a leading cryptocurrency exchange, <a href="https://blog.kraken.com/product/staking/eth-restaking">has announced the launch of Ethereum restaking via the EigenLayer protocol</a> for its non-U.S. customers.</p>
+<p>This new feature allows users to earn additional rewards on their already staked Ethereum (ETH) by participating in the security of decentralized applications (dApps) built on the EigenLayer network.</p>
+<p>Restaking is a process that enables users to extend the utility of their staked assets by providing security to multiple protocols without unstaking them from the original blockchain. This innovative approach allows investors to potentially increase their overall yield while contributing to the broader ecosystem&#8217;s security.</p>
+<p>The introduction of restaking on Kraken comes at a time of significant growth in the sector. According to data from DefiLlama, the total value locked in liquid restaking tokens has experienced a remarkable surge of over 3000% this year, reaching approximately $11 billion. This rapid expansion highlights the increasing interest and adoption of restaking among cryptocurrency investors.</p>
+<p>Kraken&#8217;s restaking feature aims to simplify the process for its users, making it more accessible to a wider range of clients. Mark Greenberg, Kraken&#8217;s global head of asset growth, stated that the integration &#8220;significantly lowers&#8221; investors&#8217; barriers to entry, as most crypto users are already familiar with centralized exchanges.</p>
+<p>To implement this new offering, Kraken has partnered with its subsidiary, Staked, which will serve as the validator for ETH restaked through the exchange. Staked is a prominent EigenLayer operator, typically catering to institutional clients. This collaboration allows Kraken to leverage Staked&#8217;s expertise in the restaking space.</p>
+<p>Users participating in restaking through Kraken will have the option to hold their rewards on the exchange or trade them for fiat currency or other cryptocurrencies. This flexibility provides investors with various options for managing their earnings.</p>
+<p>It&#8217;s important to note that while the restaking feature is available in many parts of Europe, it is not accessible to customers in the United States and other jurisdictions where &#8220;geographic restrictions apply,&#8221; according to Kraken.</p>
+<p>The launch of Ethereum restaking on Kraken coincides with recent developments in the EigenLayer ecosystem.<a href="https://blockonomi.com/eigenlayer-launches-eigen-token-market-valuation-and-exchange-listings/"> The protocol&#8217;s native token, EIGEN,</a> was recently unlocked for trading, nearly five months <a href="https://blockonomi.com/eigenlayers-eigen-token-airdrop-sparks-controversy-among-users/">after the initial airdrop to early users.</a></p>
+<p>The Eigen Foundation announced that the token would be unlocked on September 30, 2024, with major exchanges like Binance listing it for trading in pairs with other cryptocurrencies, including Bitcoin and Tether.</p>
+<p>Kraken&#8217;s implementation of restaking involves using staked ETH to secure various decentralized platforms, known as Actively Validated Services (AVSs).</p>
+<p>By providing security to these dApps, users become eligible for additional rewards on top of their standard ETH staking rewards. These rewards are typically paid out in AVS tokens, which represent the dApps that the restaked ETH helps secure.</p>
+<p>Restaking comes with some additional considerations. EigenLayer implements a minimum 7-day escrow period, in addition to the unbonding period required to unstake assets from the Ethereum network. This means that accessing restaked ETH may take longer compared to standard staking on Ethereum.</p>
+<p>To participate in EigenLayer restaking through Kraken, users need a verified Kraken Pro account at the Intermediate level or above, ETH in their spot or staked balance, and residency outside prohibited geographies, <a href="https://moneycheck.com/best-crypto-casinos-usa/">such as the United States.</a></p>
+<p>The post <a href="https://blockonomi.com/kraken-introduces-ethereum-restaking-feature-using-eigenlayer-protocol/">Kraken Introduces Ethereum Restaking Feature Using EigenLayer Protocol</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">104286</post-id>	</item>
+	</channel>
+</rss>
