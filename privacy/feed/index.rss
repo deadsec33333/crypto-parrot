@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Online Privacy News &amp; Updates: All the Latest from Blockonomi</title>
+	<atom:link href="https://blockonomi.com/privacy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blockonomi.com/privacy/</link>
+	<description>Cryptocurrency News &#38; Your Guide to the Blockchain Economy</description>
+	<lastBuildDate>Tue, 03 Dec 2024 08:28:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://blockonomi.com/wp-content/uploads/2020/07/fav-50x50.png</url>
+	<title>Online Privacy News &amp; Updates: All the Latest from Blockonomi</title>
+	<link>https://blockonomi.com/privacy/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">134176212</site>	<item>
+		<title>Op-Ed: Beyond Bitcoin, The Uncomfortable Truth About Blockchain Privacy</title>
+		<link>https://blockonomi.com/op-ed-beyond-bitcoin-the-uncomfortable-truth-about-blockchain-privacy/</link>
+		
+		<dc:creator><![CDATA[Nicholas Say]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 08:28:20 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=107203</guid>
+
+					<description><![CDATA[<p>There is nowhere to hide on the blockchain! Data is likely the most important commodity today. Some even call it the “New Oil”. Which is part of the problem. Unlike oil or wheat, data is collected and traded in the shadows. Most people don&#8217;t understand that the online data they create is a huge business. [...]</p>
+<p>The post <a href="https://blockonomi.com/op-ed-beyond-bitcoin-the-uncomfortable-truth-about-blockchain-privacy/">Op-Ed: Beyond Bitcoin, The Uncomfortable Truth About Blockchain Privacy</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There is nowhere to hide on the blockchain!</p>
+<p>Data is likely the most important commodity today. Some even call it the “New Oil”. Which is part of the problem. Unlike oil or wheat, data is collected and traded in the shadows. Most people don&#8217;t understand that the online data they create is a huge business.</p>
+<p>Public blockchains like Bitcoin are valuable in part because they are an immutable record of every transaction on the network – ever. No matter how large or small, every move on the blockchain is recorded forever.</p>
+<p>As totally public blockchains – anyone can inspect the data. Anytime, anywhere, the Bitcoin blockchain is open to all. Just part of how it works. Anyone can look at every transaction in the history of Bitcoin, which creates transparency.</p>
+<p>On the face of it – blockchain transparency is a great thing. But it also opens up some issues, especially as the world becomes politically perilous – and laws change retroactively.</p>
+<hr />
+<h2>A Naked Tyrant</h2>
+<p>Totalitarian governments crave control. Before control comes data gathering. East Germany is a good example of this dynamic. The East German secret police were data obsessed. Called the Stasi, these hilarious psychos recruited over 2% of the East German population to rat on their fellow citizens (inmates).</p>
+<p>As East Germany existed prior to 1991 – the level of personal tech that existed was low. Especially in the Soviet satellite states.</p>
+<p>Data gathering was a lot of work, and crunching that data was equally difficult. Even with basic computing – real world data was largely analog – so anything going in to the machine had to be entered by a human.</p>
+<p>Another world indeed!</p>
+<p>As a totalitarian state, East Germany offered little in terms of human rights or due process of law. If the Stasi thought you were a thought criminal – they could do anything they wanted. Including exporting you to the mothership in Moscow.</p>
+<p>Point being – data matters for totalitarian control systems. Remember that going forward.</p>
+<hr />
+<h2>The Nark in Your Pocket</h2>
+<p>We never expected smartphones to be so popular. But we understand the value of privacy. The top brass at <a href="https://en.wikipedia.org/wiki/Stasi">the Stasi</a> had wet dreams about the kind of data gathering smartphones enable. And AI makes it so easy to analyze.</p>
+<p>The world we live in today is driven by online user data. And all the big players are at the data party. Social media platforms are about data. When you use them, the platform has more data to sell. You have no expectation of privacy. The platform is collecting and selling data about YOU.</p>
+<p>While there is a level of anonymity on a public blockchain like Bitcoin or Ethereum – it is easily broken if law enforcement takes an interest in you. Up to this point most crypto users have gone unnoticed by the powers that be – but that may not always be the case.</p>
+<p>All of your data can easily be harmonized by AI systems. We are talking about multiple platforms, across decades. It is all sitting there waiting to be used. Including the data from public blockchains.</p>
+<hr />
+<h2>Digital Cash?</h2>
+<p>Bitcoin was designed to be digital cash – but it isn&#8217;t. At least in some key areas related to privacy. Platforms like Tornado Cash came along on the side of privacy – and found governments were not fans of online financial privacy.</p>
+<p>Imagine that!</p>
+<p>In fact, few blockchain platforms put privacy first. NFTs, memecoins and all the noise are great for speculation, but don&#8217;t really give you the same privacy protections that cash or a metal like gold or silver do.</p>
+<p>We are trapped by our expectations of profit measured by fiat currency – regardless of how much data we are creating on totally transparent blockchains. For the moment it seems like a good place to be. But things can change.</p>
+<hr />
+<h2>The Forming Function</h2>
+<p>Data driven algorithms are <a href="https://cambridgehouse.com/news/5968/algorithmic-trading-creates-risks-to-how-markets-function">curious creatures</a>. They must start by using existing data, and modeling it. Simple enough. But once they have a model – things change.</p>
+<p>Let&#8217;s trot out the social credit system in CCP China as an example.</p>
+<p>The CCP&#8217;s social credit system is an algo that creates the social structure in most of China. Unlike credit ratings in Western nations, the CCP&#8217;s social credit system is holistic. It determines a person&#8217;s access to health care, education, and ability to travel.</p>
+<p><iframe class="youtube-player" width="814" height="458" src="https://www.youtube.com/embed/PVkWokLqPOg?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></p>
+<p>If a person has a low score, they will be reeducated by the state. The social credit system in China is enforced by the police and communist party, and there is no way to opt out. All electronic data a person created is used as a part of the social credit system.</p>
+<p>In this situation, it&#8217;s simple to see how the algo takes on a forming function. It determines how a person can live, and what they are allowed to do within the society.</p>
+<hr />
+<h2>Dictators In Libertarian Clothing</h2>
+<p>In Western areas like the USA, UK, and EU, the data gathering side of the CCP&#8217;s social credit system is already in place. People love to use apps – and all that data is simple for companies and governments to access.</p>
+<p>Location data, financial transactions, social media posts – it&#8217;s all there.</p>
+<p>Peter Theil, one of the big brains behind PayPal, also backs <a href="https://www.bloomberg.com/features/2018-palantir-peter-thiel/">companies like Palantir</a> – which would be a key component for a CCP-style social credit system in the West. While Theil claims to be a libertarian – he created a number of platforms that enable Stasi-esque data gathering and analysis.</p>
+<p>As we saw during the Biden administration – politically motivated lawfare is real – and could be rolled out en masse at any point (by any administration). A totalitarian regime could use all the existing data for whatever perverse goals it has – and would 100% do so.</p>
+<p>Blockchains like Bitcoin were created to support human rights and privacy – not enable totalitarians!</p>
+<hr />
+<h2>Decentralized Systems Are The Goal, Not A Feature</h2>
+<p>Bitcoin is flirting with the $100,000 handle because it offers a novel solution to a global problem. Centralized authority has run amok – and is abusing power at every level.</p>
+<p>Now that BTC is a white-hot Wall St. asset – people don&#8217;t seem to care about why it was created in the first place. Fiat currency is deeply flawed, and empowers the darkest parts of humanity.</p>
+<p>Decentralized systems and limiting power are solutions. We are not there yet – no matter how much garbage fiat currency BTC is worth.</p>
+<p>The post <a href="https://blockonomi.com/op-ed-beyond-bitcoin-the-uncomfortable-truth-about-blockchain-privacy/">Op-Ed: Beyond Bitcoin, The Uncomfortable Truth About Blockchain Privacy</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">107203</post-id>	</item>
+		<item>
+		<title>The Best Torrent Sites: Complete Guide to The Most Popular Sites</title>
+		<link>https://blockonomi.com/best-torrent-sites/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2024 09:17:39 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Best torrent sites]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[most popular torrent sites]]></category>
+		<category><![CDATA[privacy-featured]]></category>
+		<category><![CDATA[Torrent Sites]]></category>
+		<category><![CDATA[torrenting sites]]></category>
+		<category><![CDATA[TRON]]></category>
+		<category><![CDATA[TRX]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=40505</guid>
+
+					<description><![CDATA[<p>In the world of file sharing, torrenting remains one of the most popular ways to access a vast array of content, from movies and music to software and books. However, not all torrent sites are created equal, and finding a reliable platform can be challenging amid a sea of options. In this guide we’ll explore [...]</p>
+<p>The post <a href="https://blockonomi.com/best-torrent-sites/">The Best Torrent Sites: Complete Guide to The Most Popular Sites</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In the world of file sharing, torrenting remains one of the most popular ways to access a vast array of content, from movies and music to software and books.</p>
+<p>However, not all torrent sites are created equal, and finding a reliable platform can be challenging amid a sea of options.</p>
+<p>In this guide we’ll explore the top torrenting platforms of today, highlighting their strengths, unique features, and what makes them stand out. Whether you’re a seasoned torrent user or new to the scene, this comprehensive guide will help you navigate the best options safely and efficiently.</p>
+<h2>What are Torrents?</h2>
+<p>Torrents are files containing metadata, which is a data set containing information on other data. Therefore, a torrent does contain the content file. Instead, it helps torrent software search for &#8220;peers&#8221; or &#8220;seeds&#8221; that share the data. The program then extracts data from those shared files, producing a finished version of the data.</p>
+<p>Think of it as using the torrent software to collect whatever movies, TV shows, music, or other content files you want from other people&#8217;s computers all around the world. That doesn&#8217;t mean that you need to give up your drive and all your information when you download a torrent, either.</p>
+<p>The program collects pieces of data from shared files and puts them together on your computer or device. No-one has access to your information at any stage. The speed of the data transfer depends on the number of peers hosting the content for transfer. The seeds or peers, the faster the data transfer.</p>
+<hr />
+<h2>How Does a Torrent Work?</h2>
+<p>When you browse online, the browser sends multiple requests to servers every second to download information related to your browsing session. If the server can&#8217;t handle the request load from users on its network, it ends up crashing.</p>
+<p>When browsing, the browser in use sends multiple requests to a server so that it can download the information.</p>
+<p>However, this server can have too much traffic from users who are trying to access the same information. As a result, the servers crash, and everyone on the network loses their connection. Torrents work on &#8220;Peer-to-Peer&#8221; technology described above, by transferring data between systems. However, with P2P transfers, it&#8217;s possible to move large volumes of data on a platform, without experiencing any difficulties of overloading servers and networks. P2P transfers can occur on the BitTorrent protocol, a system used to transfer files online.</p>
+<figure id="attachment_40517" aria-describedby="caption-attachment-40517" style="width: 808px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="size-full wp-image-40517" src="https://blockonomi.com/wp-content/uploads/2020/04/bittorrent-diagram.jpg" alt="How Bittorrent Works" width="808" height="387" srcset="https://blockonomi.com/wp-content/uploads/2020/04/bittorrent-diagram.jpg 808w, https://blockonomi.com/wp-content/uploads/2020/04/bittorrent-diagram-300x144.jpg 300w, https://blockonomi.com/wp-content/uploads/2020/04/bittorrent-diagram-768x368.jpg 768w, https://blockonomi.com/wp-content/uploads/2020/04/bittorrent-diagram-50x24.jpg 50w" sizes="(max-width: 808px) 100vw, 808px" /><figcaption id="caption-attachment-40517" class="wp-caption-text">How BitTorrent Works</figcaption></figure>
+<p>By installing a <a href="https://blockonomi.com/?s=bittorrent">BitTorrent</a> client on your device or computer, you can access these P2P networks, allowing you to download torrent files that contain all your favorite entertainment. You capture small pieces of information from all the seeds on the system, piecing together the data to allow you to host it on your device or PC.</p>
+<p>The trackers in the torrent file make it easy for the protocol to identify the relevant data in the transfer, recording the number of seeds for the torrent file, as well as the total downloads, file size, and peers seeding the file.</p>
+<p>&#8220;Leeching&#8221; describes a practice where people download the torrent file from the network, but don&#8217;t leave their connection available after to seed the data back to the system. The community frowns on this process, so if you have unlimited bandwidth available, consider giving back to the community some time.</p>
+<p><a href="https://www.bittorrent.com/">BitTorrent</a>, the company, <a href="https://blockonomi.com/tron-justin-sun-bittorrent/">was purchased</a> by Justin Sun, Creator of the <a href="https://moneycheck.com/best-tron-casinos/">Tron Blockchain platform</a> in 2018.</p>
+<hr />
+<h3>Disclaimer</h3>
+<div class="risker">
+<p>While the BitTorrent protocol is entirely legal, the unapproved use of the software to download and distribute copyrighted content is illegal. The regulators are in a constant battle with torrent sites, with torrenters trying to prove that the use of trackers and BitTorrent metafiles don&#8217;t store any file contents.</p>
+<p>Regulators will always be in a struggle with torrenting sites. Some sites have harder times with the authorities than others. However, it&#8217;s best to ensure that you remain anonymous online when using a torrent service.</p>
+<p>Download and install a VPN for your device or laptop before you start downloading. Use a VPN when downloading. This tool safeguards you against any malicious activity from bad actors or third-party software while you&#8217;re surfing the web and downloading files.</p>
+<p>The purpose of this article is for information purposes only. We are in no way suggesting that you use the information in this article to download copywritten material.</p>
+<hr />
+</div>
+<h2>The Top 25 Torrent Sites</h2>
+<p>In this section, we&#8217;ll bring you some information on the best public trackers available. Most of the options in this review offer you a safe means of downloading torrents. However, remember to use a VPN and ensure that your internet security is tight before you attempt any downloads.</p>
+<h3>At a Glance</h3>
+<table>
+<tbody>
+<tr>
+<td>Site Name</td>
+<td>Details</td>
+<td>Visit</td>
+</tr>
+<tr>
+<td><strong>The Pirate Bay</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2003</li>
+<li>Monthly active users: 106.08-million</li>
+<li>Global Site Rank: 209</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://thepiratebay.org/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>YTS</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2010</li>
+<li>Monthly active users: 118.6-million</li>
+<li>Global Site Rank: 182</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://yts.am/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Rutracker</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2004</li>
+<li>Monthly active users: 85.74-million</li>
+<li>Global Site Rank: 256</li>
+</ul>
+</td>
+<td><a class="infobutton" href="http://rutracker.org/forum/index.php" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Eztv</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2005</li>
+<li>Monthly active users: 42.26-million</li>
+<li>Global Site Rank: 897</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://eztv.io/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Rarbg</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2008</li>
+<li>Monthly active users: 90.36-million</li>
+<li>Global Site Rank: 347</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://rarbg.to/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Torrentz2</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2003</li>
+<li>Monthly active users: 41.16-million</li>
+<li>Global Site Rank: 752</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://torrentz2.eu/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>KickAssTorrents</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2016</li>
+<li>Monthly active users: 14.74-million</li>
+<li>Global Site Rank: 2,386</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://katcr.co/new/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Torrent9</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2018</li>
+<li>Monthly active users: 23.96-million</li>
+<li>Global Site Rank: 944</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.torrent9.pl/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>LimeTorrents</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2009</li>
+<li>Monthly active users: 24.25-million</li>
+<li>Global Site Rank: 1,341</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.limetorrents.info/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Zooqle</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2013</li>
+<li>Monthly active users: 14.53-million</li>
+<li>Global Site Rank: 2,079</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://zooqle.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Magnetdl</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2012</li>
+<li>Monthly active users: 9.56-million</li>
+<li>Global Site Rank: 3,588</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.magnetdl.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Torlock</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2010</li>
+<li>Monthly active users: 7.9-million</li>
+<li>Global Site Rank: 5,807</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://torlock.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Arenabg</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2007</li>
+<li>Monthly active users: 6.29-million</li>
+<li>Global Site Rank: 8,071</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://arenabg.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>PCgamestorrents</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2018</li>
+<li>Monthly active users: 10.56-million</li>
+<li>Global Site Rank: 6,019</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://pcgamestorrents.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>ettv.tv</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2017</li>
+<li>Monthly active users: 8-million</li>
+<li>Global Site Rank: 8,666</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.ettv.to/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Torrentgalaxy</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2018</li>
+<li>Monthly active users: 5.16-million</li>
+<li>Global Site Rank: 8,527</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://torrentgalaxy.org/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Torrentfunk</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2010</li>
+<li>Monthly active users: 2.67-million</li>
+<li>Global Site Rank: 13,715</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.torrentfunk.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>seedpeer</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2008</li>
+<li>Monthly active users: 2.49-million</li>
+<li>Global Site Rank: 15,630</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.seedpeer.me/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>idope</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2016</li>
+<li>Monthly active users: 619,000</li>
+<li>Global Site Rank: 138,702</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://idope.se/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>monova</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2005</li>
+<li>Monthly active users: 1.08-million</li>
+<li>Global Site Rank: 57,480</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://monova.org/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>yourbittorrent</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2003</li>
+<li>Monthly active users: 1.02-million</li>
+<li>Global Site Rank: 30,313</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://yourbittorrent.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>btdig</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2011</li>
+<li>Monthly active users: 1.69-million</li>
+<li>Global Site Rank: 29,136</li>
+</ul>
+</td>
+<td><a class="infobutton" href="http://btdig.com/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>torrentdownloads.me</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2007</li>
+<li>Monthly active users: 13.54-million</li>
+<li>Global Site Rank: 2, 943</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://www.torrentdownloads.me/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>Nyaa.si</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2005</li>
+<li>Monthly active users: 69.2-million</li>
+<li>Global Site Rank: 495</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://nyaa.si/" rel="nofollow">Visit</a></td>
+</tr>
+<tr>
+<td><strong>1337x.to</strong></td>
+<td>
+<ul>
+<li>Year Founded: 2007</li>
+<li>Monthly active users: 95.97-million</li>
+<li>Global Site Rank: 254</li>
+</ul>
+</td>
+<td><a class="infobutton" href="https://13377x.site/" rel="nofollow">Visit</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<ol>
+<li>
+<h3>The Pirate Bay</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2003</li>
+<li>Monthly active users: 106.08-million</li>
+<li>Global Site Rank: 209</li>
+</ul>
+<p>The Pirate Bay is the most infamous torrent site on the internet. This site got plenty of attention from Federal authorities, with law enforcement taking down many previous domains. However, you can&#8217;t suppress freedom for too long, and the Pirate Bay kept on popping up on different domains.</p>
+<p>TPB is your one-stop torrent shop where everything is available for free. Movies, series, Blu-ray, HD 1080p, whatever you want – it&#8217;s all there, and it&#8217;s all for free. There are millions of torrents on the site. While a vast majority of them are porn, there&#8217;s still plenty of useful programs, applications, e-books, movies, series, and documentaries.</p>
+<p>The Pirate Bay is a free site, and it doesn&#8217;t cost you anything to download, but tipping the developers through the Bitcoin or Monero crypto network is an excellent way to give back. You&#8217;ll find the wallet addresses for the community at the footer of the page.</p>
+<p>This site features many millions of visitors every month. Still, it&#8217;s probably a lot more than the registered traffic, as plenty of the users utilize proxies, VPNs, or mirrors to gain safe access to The Pirate Bay. Alexa ranks TPB as the 209th most visited site online, but we bet it&#8217;s really in the top 100, at least.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://thepiratebay.org/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="2">
+<li>
+<h3>YTS</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2010</li>
+<li>Monthly active users: 118.6-million</li>
+<li>Global Site Rank: 182</li>
+</ul>
+<p>TPB is a popular site, but there are reports of it not being a safe place to download your torrents. Our top choice for the safest site with the best selection goes to YTS.am. YTS arrived to fill the gap left by the Motion Picture Association of America when it shut down YIFY, the predecessor to YTS.</p>
+<p>YTS has all the latest releases, in varying levels of quality. HD and Blu-ray titles are available, and the user interface is easy to navigate. The search is functional, and you can find any old movie you want in the platform&#8217;s extensive archives.</p>
+<p>Alexa ranks YTS as the 182nd most popular site online, with nearly 120-million unique visitors to the platform every month.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://yts.am/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="3">
+<li>
+<h3>Rutracker</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2004</li>
+<li>Monthly active users: 85.74-million</li>
+<li>Global Site Rank: 256</li>
+</ul>
+<p>Rutracker is one of the lesser-know torrenting websites. It&#8217;s popular in Russia but doesn&#8217;t get a lot of traction anywhere else in the world. It might surprise you to learn that Russia has its version of just about every western digital service. Gmail is Rumail, and the Pirate Bay is Rutracker.</p>
+<p>Rutracker indexes everything in Russian, so unless you can speak the language, you&#8217;re going to have a tough time navigating your way through the site. You get a wide selection of torrents, including music, e-books, software, movies, and series.</p>
+<p>It&#8217;s also strange to think that the Russian government banned and blocked the site in 2015, showing the average Russian&#8217;s ability to circumvent international cybersecurity laws using tools like a virtual private network (VPN).</p>
+<p>According to Alexa, Rutracker ranks as the 256th most popular site online.</p>
+<p style="text-align: center;"><a class="infobutton" href="http://rutracker.org/forum/index.php" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="4">
+<li>
+<h3>Eztv</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2005</li>
+<li>Monthly active users: 42.26-million</li>
+<li>Global Site Rank: 897</li>
+</ul>
+<p>This torrent distribution group is one of the most well-known brands in the niche. If you log into any torrent platform like KAT or TPB, you&#8217;re sure to find the latest uploads form eztv available for download.</p>
+<p>The original company submitted to a hostile takeover in 2015 by Ezcloud Limited. Regardless of the change in the company&#8217;s structure, the site continues to publish the latest torrents on all your favorite media formats.</p>
+<p>The database of past torrents is enormous, and they get nearly 43-million unique visitors a month. Alex ranks this site in the top 1,000-most visited sites online, pulling in at number 897.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://eztv.io/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="5">
+<li>
+<h3>Rarbg</h3>
+</li>
+</ol>
+<p>Year Founded: 2008</p>
+<p>Monthly active users: 90.36-million</p>
+<p>Global Site Rank: 347</p>
+<p>This Belgian torrenting site has a legacy extending back to 2008. 11-years, as one of the world&#8217;s most-visited torrent sites, means it has an extensive archive of content. There are plenty of genres, from movies and series to porn, software, and games.</p>
+<p>Rarbg is probably a standout site for new HD movie releases. With over 90-million monthly visitors, Alexa ranks this site as number 347 online.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://rarbg.to/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="6">
+<li>
+<h3>Torrentz2</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2003</li>
+<li>Monthly active users: 41.16-million</li>
+<li>Global Site Rank: 752</li>
+</ul>
+<p>This meta-search engine specializes in torrents, launched in 2016 as the successor of the Torrentz.eu site, which authorities shut down in 2016. Proving that you can&#8217;t keep any information contained forever, Torrentz2.eu came back with a vengeance.</p>
+<p>The new platform has the same look and feel as the original, and even features the same design and functionality as the original site. However, it&#8217;s also a significant improvement on its predecessor. The site indexes millions of torrents form more than 75 specialized platforms and domains.</p>
+<p>More than 41-million people visit this site every month, making it number 752 in the top website visited online.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://torrentz2.eu/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="7">
+<li>
+<h3>KickAssTorrents</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2016</li>
+<li>Monthly active users: 14.74-million</li>
+<li>Global Site Rank: 2,386</li>
+</ul>
+<p>KickAssTorrents, otherwise known as KAT, was an example of how far the government is willing to go to allocate resources to protecting copyright. The US Department of Justice seized the original kat.cr website that was almost as big as Pirate Bay at the time.</p>
+<p>In a miscarriage of justice in the fight against information freedom, the US prosecuted the owner of the website. However, proving once again that you can&#8217;t lock up the freedom of information, the site appeared under a new URL, katcr.co.</p>
+<p>The new site features a vast library of torrents. Browse through the subcategories and choose your favorite movies, anime, TV shows, games, e-books, applications, software, and music. This site has an excellent interface that&#8217;s simple to use, and an elegant design that&#8217;s easy on the eyes.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://katcr.co/new/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="8">
+<li>
+<h3>Torrent9</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2018</li>
+<li>Monthly active users: 23.96-million</li>
+<li>Global Site Rank: 944</li>
+</ul>
+<p>This French torrenting site has a comprehensive selection of TV shows, movies, music, and software available for download. The site has an excellent interface, providing user-friendly navigation through subcategories to help you find what you&#8217;re looking for on the website.</p>
+<p>The detailed description of the contents, along with the information such as the size of the files, ensures you can verify good torrents from the bad ones.</p>
+<p>The site gets nearly 24-million visitors each month, ranking as the 944th most popular site online.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.torrent9.pl/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="9">
+<li>
+<h3>LimeTorrents</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2009</li>
+<li>Monthly active users: 24.25-million</li>
+<li>Global Site Rank: 1,341</li>
+</ul>
+<p>Limetorrents is a well-established platform hosting more than 10-million torrents – that&#8217;s a lot of data. There are hundreds of categories to browse through on this platform, including movies, TV shows, games, and anime.</p>
+<p>Browse through the webpages to see the latest updated lists for the top-100 torrents available. With only 25-million visitors to this site, it&#8217;s surprising that there aren&#8217;t more users on this platform.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.limetorrents.info/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="10">
+<li>
+<h3>Zooqle</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2013</li>
+<li>Monthly active users: 14.53-million</li>
+<li>Global Site Rank: 2,079</li>
+</ul>
+<p>Launched in 2013. Zooqle is a newcomer to the torrent scene, but it has one of the most impressive offerings. This site has a huge database of TV shows and movies. You can verify the torrents, and filter through your results by category, or directly search the title you want.</p>
+<p>The movie torrents come from the legendary Movie Database (TMDb). There are around 4-million torrents available on Zooqle&#8217;s database, with an easy user-interface.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://zooqle.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="11">
+<li>
+<h3>Magnetdl</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2012</li>
+<li>Monthly active users: 9.56-million</li>
+<li>Global Site Rank: 3,588</li>
+</ul>
+<p>This site has a massive collection of magnet download links. The magnet is one of the more popular means of downloading torrent files, making transferring data quick and effortless. Magnetdl is an innovative platform that allows for the referral of electronic files, without the continuous need for host swarms.</p>
+<p>Magnet files are an excellent choice for identifying the content in files using cryptographic hashing, instead of the actual location of the file. As a result, anyone can create a file, with no central authority needing to provide issuance.</p>
+<p>If you want to download magnet links, then you&#8217;ll need to have a BitTorrent client downloaded and installed on your computer. Qbittorent and uTorrent are some of the more popular choices for a BitTorrent client that can download magnet links.</p>
+<p>The interface of the site has a minimalist feel, and after conducting the research, the site offers users the chance to download the file or stream it online.</p>
+<p>You can characterize magnet links by upload date, size, and the reputation of the uploader on the platform.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.magnetdl.com/" rel="nofollow">Visit</a></p>
+<ol start="12">
+<li>
+<h3>Torlock</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2010</li>
+<li>Monthly active users: 7.9-million</li>
+<li>Global Site Rank: 5,807</li>
+</ul>
+<p>If you&#8217;re looking for movies, TV shows, and series, then head over to torlock. This platform has all the latest releases every week, and you can browse through its extensive archives. Navigating the platform is simple, with categories and subcategories providing easy direction to your favorite torrents.</p>
+<p>All the verified torrents are trustworthy, and the site does an excellent job of keeping the uploads clean. If you want to earn some extra cash, torlock will pay you $1 for every dangerous or broken link you find on the site.</p>
+<p>The site itself has over 5-million files in its archives, making it one of the most prominent online. With 7.9-million visitors to the site every month, it sits at a global ranking for 5,807, according to Alexa.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://torlock.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="13">
+<li>
+<h3>Arenabg</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2007</li>
+<li>Monthly active users: 6.29-million</li>
+<li>Global Site Rank: 8,071</li>
+</ul>
+<p>This Bulgarian BitTorrent tracker comes from Frisco, Texas. IT has one of the oldest reputations in the game, and along with another tracker named &#8220;Zamunda,&#8221; the pair remained at the top of the European torrenting charts for years.</p>
+<p>You have the option of choosing the interface in English or Bulgarian. The site also0 offers a browser extension called &#8220;ArenaPlay,&#8221; allowing you to stream the content online, instead of downloading torrent files to your PC.</p>
+<p>The arena was at the center od a scandal where hackers compromised its systems and made off with the IP addresses of all its users. Just another good reason to always ensure you download and browse these sites using a VPN.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://arenabg.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="14">
+<li>
+<h3>PCgamestorrents</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2018</li>
+<li>Monthly active users: 10.56-million</li>
+<li>Global Site Rank: 6,019</li>
+</ul>
+<p>If you love playing games, then this specialized torrent site for gamers has every title you can imagine. From action to strategy, anime, and even adult, pcgamestorrents have every title you can dream of playing.</p>
+<p>This site uploads games to its database from top torrent sites like spy-crack, skidrow and reloaded, and GOG codexpcgames. However, the biggest drawback to using this site comes in the form of all the pop-ups. The ads plague your screen, even when you&#8217;re using an ad-blocker.</p>
+<p>Pcgamestorrents.com gets more than 10-million visitors each month, and according to Alexa, ranks as number 6,019 on the most visited websites online.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://pcgamestorrents.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="15">
+<li>
+<h3>ettv.tv</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2017</li>
+<li>Monthly active users: 8-million</li>
+<li>Global Site Rank: 8,666</li>
+</ul>
+<p>If you love your TV shows and series, then ettv is a great torrent database teeming with all the torrents you could ever want online. This database works with TV shows and series, and you can find its offerings on many of the other torrent sites listed in this review.</p>
+<p>You also get the option of signing up for the premium version of the site. Premium membership gives you a better ad-free browsing experience, as well as no caching or ads, and dynamic pages. You can get an annual subscription to the site for $54 per month if you pay for a year upfront.</p>
+<p>This website is new, and it will continue to grow into one of the top choices for TV shows online. With only 2-years of operation, ettv is one of the rising torrent stars online.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.ettv.to/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="16">
+<li>
+<h3>Torrentgalaxy</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2018</li>
+<li>Monthly active users: 5.16-million</li>
+<li>Global Site Rank: 8,527</li>
+</ul>
+<p>TorrentGalaxy launched in 2018, making it one of the newer players in the torrent space. While it&#8217;s a newcomer, its popularity is surging, thanks to its wide selection of all types of torrents. With 5-million unique visitors every month, Torrent Galaxy is gaining traction in the torrent user base.</p>
+<p>Browse through the torrent of the week section or use the search function to look for a specific title. It&#8217;s easy to download torrents by clicking on the link, where the site opens a streaming page, allowing you to view the content.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://torrentgalaxy.org/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="17">
+<li>
+<h3>Torrentfunk</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2010</li>
+<li>Monthly active users: 2.67-million</li>
+<li>Global Site Rank: 13,715</li>
+</ul>
+<p>TorrentFunk is another popular choice among torrenters due to the verification features available on files. Verification is a massive part of downloading torrents. If you don&#8217;t have experience of learning how to detect fake files, you could end up downloading malware or viruses to your PC or device.</p>
+<p>The TorrentFunk admin team takes a unique approach to uncovering fake files and misleading file titles. The site has a dedicated comments section for each file, allowing users to give others in the community a heads up on the validity and quality before you decide to download.</p>
+<p>However, it seems that this site is in the middle of a battle with regulators, and we can expect that it might experience a shutdown soon.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.torrentfunk.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="18">
+<li>
+<h3>seedpeer</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2008</li>
+<li>Monthly active users: 2.49-million</li>
+<li>Global Site Rank: 15,630</li>
+</ul>
+<p>This Brazilian torrent website has an extensive database, and it supports direct downloads and magnet links. This website never reached the notoriety of the Pirate Bay, despite it being around for more than 10-years.</p>
+<p>However, you can still find any torrent you&#8217;re looking for on this site. There&#8217;s a massive collection of movies, TV shows, series, games, software, and porn on seedpeer.me. Listed torrents all feature qualifying information to help you with verifying the torrent contents.  You get information on the file size, category, peers, and the number of threat reports flagged on the file.</p>
+<p>With a minimalist feel and design, this site has user-friendly navigation and ranks as one of our favorite torrent sites for new TV shows.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.seedpeer.me/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="19">
+<li>
+<h3>idope</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2016</li>
+<li>Monthly active users: 619,000</li>
+<li>Global Site Rank: 138,702</li>
+</ul>
+<p>Download your favorite torrents using magnet links available for idope.se. This site is also a relative newcomer to the torrent space, launching in 2016. There are a whopping 18-million torrent files on this site, making it one of the most significant online resources available.</p>
+<p>One of the standout features of this site is its mobile integration, making it easy to download your torrents onto your mobile device.</p>
+<p>Browse through categories, or click on the &#8220;most popular&#8221; or &#8220;most recent&#8221; tabs to see all of the latest torrents ready for download.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://idope.se/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="20">
+<li>
+<h3>monova</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2005</li>
+<li>Monthly active users: 1.08-million</li>
+<li>Global Site Rank: 57,480</li>
+</ul>
+<p>Founded in 2005, Monova is challenging TPB for the title of the oldest torrent site online. However, it&#8217;s clear to see the reason why this site never reached the popularity levels of TPB. The site comes packed with pop-up ads that are frustrating to deal with, and you get the unnerving feeling that this site is after your data.</p>
+<p>However, if you&#8217;re willing to take the risk, you can download a wide range of TV shows, movies, games, software, and music form this platform.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://monova.org/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="21">
+<li>
+<h3>yourbittorrent</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2003</li>
+<li>Monthly active users: 1.02-million</li>
+<li>Global Site Rank: 30,313</li>
+</ul>
+<p>This site was initially called myBittorent upon its launch back in 2003. However, the platform changed its name to yourbittorent in 2009. the change occurred due to a split in the ownership of the platform. This site is a little different, and it doesn&#8217;t&#8217; directly host the torrent file on the site.</p>
+<p>Instead, the site hosts the information on the file, giving the location of an indexed file. This platform was the first-ever website to experience seizure by a registrar. The events occurred due to the arguments between the owners over the future of the site.</p>
+<p>Despite the site&#8217;s tainted history, the user-interface is easy to use. There are plenty of verified links to all types of content, from TV shows to movies and music.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://yourbittorrent.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="22">
+<li>
+<h3>btdig</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2011</li>
+<li>Monthly active users: 1.69-million</li>
+<li>Global Site Rank: 29,136</li>
+</ul>
+<p>Before the use of torrents for distributed peers, trackers were the only method of locating peers with content to share online. The usage of Distributed Hash Table (DHT) by BitTorrent clients helps to find peers for the file via a BitTorrent protocol. This system offers a means of distributing tracking, gaining significant popularity thanks to its decentralized approach of file transfers.</p>
+<p>BTDigg relies on the use of DHT protocols for file searches, and the site itself provides a clean and user-friendly interface. The website collects metadata for the DHT network, and one of the key advantages is that no torrents are involved in the running of the site, and there is no content on the site&#8217;s servers.</p>
+<p>Your search results display torrent-related information, such as the size, name, age, and the number of files. The listing also provides a single link for execution with your BitTorrent client.</p>
+<p style="text-align: center;"><a class="infobutton" href="http://btdig.com/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="23">
+<li>
+<h3>torrentdownloads.me</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2007</li>
+<li>Monthly active users: 13.54-million</li>
+<li>Global Site Rank: 2, 943</li>
+</ul>
+<p>This torrent indexer is another platform that survived the test of time. Founded in 2007. Torrentdownloads.me gets over 134-million active users each month, with over 16-million torrents available for download!</p>
+<p>With one of the largest torrent databases online, this site offers you movies, TV Shows, music, documentaries, and any other torrent file you can imagine. The site did have a few safety issues some years ago, but it bounced back from the controversy and remains a top destination for torrent downloads.</p>
+<p>The community identifies fake files, so make sure you read the comments on the file before you start your download. Perform advanced searches with the platform&#8217;s search bar and get the exact torrent you&#8217;re looking for on the site.</p>
+<p>The site also does an excellent job of mitigating security concerns. The files all come with tags stipulating the file size, upload date, category, and the number of seeds available.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://www.torrentdownloads.me/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="24">
+<li>
+<h3>Nyaa.si</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2005</li>
+<li>Monthly active users: 69.2-million</li>
+<li>Global Site Rank: 495</li>
+</ul>
+<p>This torrenting site is one of the lesser-known options out there. However, it offers a decent torrenting service that&#8217;s worthy of mention in this review. This site specializes in anime, and it&#8217;s the continuation of the long-lost anime site, NYAA.</p>
+<p>Anime heads will love this platform, with the biggest collection of anime, hentai, movies, and games. Most of the torrents are in Japanese, but there are plenty available in English as well.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://nyaa.si/" rel="nofollow">Visit</a></p>
+<hr />
+<ol start="25">
+<li>
+<h3>1337x.to</h3>
+</li>
+</ol>
+<ul>
+<li>Year Founded: 2007</li>
+<li>Monthly active users: 95.97-million</li>
+<li>Global Site Rank: 254</li>
+</ul>
+<p>This site has several ISP blocks in countries around the globe, and you&#8217;ll need a VPN if you want to get it to work. This site is one of the most significant players in the torrent space, with magnet links available for TV shows, series, movies, software, music, anime, and games.</p>
+<p>1337x managed to keep its user base, even as other sites like kat.cr and TPB took on battles with the regulators.</p>
+<p>In November 2018, the popular internet security solution, Malwarebytes, banned the site, claiming that the admins are stealing user&#8217;s information.</p>
+<p style="text-align: center;"><a class="infobutton" href="https://13377x.site/" rel="nofollow">Visit</a></p>
+<hr />
+<h2>What are the Advantages of Downloading Torrent?</h2>
+<p>There are plenty of advantages to using torrent downloads. The first reason is the entertainment on tap, there no need to pay for streaming services when you can download torrents for free.</p>
+<p>You also get a better range of media on torrent sites. For instance, on the Pirate Bay, you can find movies, TV shows, series, documentaries, e-books, video games, software programs, and anime. That kind of selection isn&#8217;t available on any streaming site, and you&#8217;ll need multiple subscriptions to handle that kind of action.</p>
+<p>With torrent files, you also get to keep the files. That&#8217;s especially important when you&#8217;re dealing with software programs and e-books. Transferring data in a P2P manner also benefits business.</p>
+<p>It&#8217;s for this reason that many companies that handle large volumes of data now integrate P2P solutions in systems to save on bandwidth and server storage space.</p>
+<hr />
+<h2>Are There Any Disadvantages in Downloading Torrent Files?</h2>
+<p>As you can see, there are plenty of advantages to using P2P file transfers. Torrents are handy ways to share information, but there are also risks and limitations associated with handling torrents.</p>
+<p>For instance, access to secured files is easy to manage through servers, but it&#8217;s far more challenging with torrents. The backup files on the server also assure that it&#8217;s easy to restore files if the central hub shuts down.</p>
+<p>Downloading torrents can also consume plenty of bandwidth. If you&#8217;re working on a limited data plan, then make sure you check your consumption. If you decide to seed back to the network, then you&#8217;ll also be using bandwidth for this process.</p>
+<hr />
+<h2>Do I Need a VPN to Download Torrents?</h2>
+<p>No, you don&#8217;t need to have a VPN if you want to download torrents online – but you should. There are thousands of stories about how torrent sites can damage your data and your machine.</p>
+<p>Countless stories are floating around online, from installing viruses and malware in torrents downloaded to computers, to identity theft and extortion. The internet is a wild place, and you need protection to keep your identity and data safe while downloading torrents.</p>
+<p>Using these sites without the assistance of a VPN is like walking down the road naked. Everyone starts paying attention to you, and some people might want to come in for a closer look. If they think you have something of value to offer them, they might decide to rob you.</p>
+<p>However, being robbed online isn&#8217;t the same as in the real world. If some thug sticks you up in an alleyway with a knife, you know that someone robbed you.</p>
+<p>However, online, you won&#8217;t even realize it happened until you get a call from the credit agencies saying you suddenly are outstanding with a large loan payment you never knew existed.</p>
+<p>Identity theft and fraud online is a real thing, and you need to protect yourself and your computer from any online threats that could cost you your livelihood.</p>
+<h3>Which VPN to use?</h3>
+<p>We have reviewed a number of VPNs, as follows:</p>
+<ul>
+<li><a href="https://blockonomi.com/avast-secureline-vpn-review/">Avast VPN</a></li>
+<li><a href="https://blockonomi.com/expressvpn-review/">Express VPN</a></li>
+<li><a href="https://blockonomi.com/nordvpn-review/">Nord VPN</a></li>
+<li><a href="https://blockonomi.com/cyberghost-vpn-review/">CyberGhost VPN</a></li>
+<li><a href="https://blockonomi.com/avg-vpn-review/">AVG VPN</a></li>
+<li><a href="https://blockonomi.com/pure-vpn-review/">Pure VPN</a></li>
+</ul>
+<hr />
+<h2>How Does a VPN Work?</h2>
+<p>A VPN is a third-party software available from numerous providers. After downloading and installing the software on your machine, you open a user dashboard.</p>
+<p>On your dash, you&#8217;ll see servers listed in various countries, such as the USA and UK. By clicking onto one of these servers, you route your connection to the internet through the proxy addresses used by the VPN. As a result, your ISP and hackers can&#8217;t see you online; essentially – you&#8217;re invisible.</p>
+<p>Therefore, with a VPN, you don&#8217;t have to worry about anyone discovering your IP address. You also don&#8217;t have any concerns about someone accessing your machine remotely through a virus. A VPN offers you the safest means of downloading torrents.</p>
+<hr />
+<h2>How do I Download a Torrent?</h2>
+<p>Downloading a torrent is easy. All you need to do is download a torrent client, install it on your device or PC. After its running, log in to any of the sites mentioned in this review.</p>
+<p>Follow this step-by-step process for downloading your first torrent file.</p>
+<ul>
+<li>Step 1 – Download a torrent client like uTorrent or qbittorrent from an official website.</li>
+<li>Step 2 – Search the torrent site for your media file</li>
+<li>Step 3 – Click the magnet icon on the file you want to download</li>
+<li>Step 4 – Select the path or drive to save the file on your device or PC</li>
+<li>Step 5 – Click OK, and start your download</li>
+</ul>
+<p>NOTE: Priority will always go to the first file that starts downloading when working with simultaneous downloads or multiple files.</p>
+<p>Using torrents to access your favorite media, software, and internet tools is a great way to stay entertained while stuck indoors.</p>
+<p>As long as you have an internet connection or Wi-Fi, you can always download torrents.</p>
+<hr />
+<h2>What are the Types of Torrent Sites?</h2>
+<p>We can categorize torrent sites into private and public venues. Public torrent sites, also known as &#8220;open trackers,&#8221; will permit access to any user when accessing the tracker address. Fortunately, downloading files from these platforms is a straightforward process.</p>
+<p>Private torrent sites, otherwise known as private trackers, will limit access to members. In most cases, members are only able to register through invite-only. Existing members must approve permission for new members to access the platform and issue an entrance code via email.</p>
+<p>Private sites may also require members to meet specific seeding goals to keep the network alive.</p>
+<p>Public trackers offer you the best option for ease of use. These platforms are open, so the chance of downloading a bad piece of software or malware is a risk you&#8217;ll have to learn to mitigate if you want to continue to download torrents.</p>
+<p>The advantage of private trackers is that the members all experience a vetting process before joining the network. Therefore, there is much less risk of a malicious software ending up in your torrent transfer.</p>
+<p>The post <a href="https://blockonomi.com/best-torrent-sites/">The Best Torrent Sites: Complete Guide to The Most Popular Sites</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40505</post-id>	</item>
+		<item>
+		<title>Digital Blackout: Venezuela Blocks Binance and X Amid Post-Election Turmoil</title>
+		<link>https://blockonomi.com/digital-blackout-venezuela-blocks-binance-and-x-amid-post-election-turmoil/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Mon, 12 Aug 2024 08:36:32 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=100670</guid>
+
+					<description><![CDATA[<p>TLDR Venezuela has blocked access to Binance, social media platform X (formerly Twitter), and other online services amid unrest over disputed presidential election results. The block on Binance affects the normal operation of its website and mobile application in Venezuela. Binance has assured users that their funds are safe and that they are monitoring the [...]</p>
+<p>The post <a href="https://blockonomi.com/digital-blackout-venezuela-blocks-binance-and-x-amid-post-election-turmoil/">Digital Blackout: Venezuela Blocks Binance and X Amid Post-Election Turmoil</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li>Venezuela has blocked access to Binance, social media platform X (formerly Twitter), and other online services amid unrest over disputed presidential election results.</li>
+<li>The block on Binance affects the normal operation of its website and mobile application in Venezuela.</li>
+<li>Binance has assured users that their funds are safe and that they are monitoring the situation closely.</li>
+<li>The blockade comes after a disputed July 28 presidential election where both Nicolás Maduro and rival Edmundo González claimed victory.</li>
+<li>Binance&#8217;s peer-to-peer service is popular in Venezuela as locals seek to exchange the highly inflated Venezuelan bolívar for more stable currencies.</li>
+</ul>
+<hr />
+<p>The Venezuelan government has blocked access to Binance, the world&#8217;s largest cryptocurrency exchange, along with social media platform X (formerly Twitter) and other online services.</p>
+<p>This action comes in the wake of widespread unrest <a href="https://edition.cnn.com/2024/08/09/americas/venezuela-election-results-experts-improbability-intl-latam/index.html">following disputed presidential election results.</a></p>
+<p>On August 9, local anti-censorship organization VE sin Filtro reported detecting a DNS block on Binance, affecting both its website and mobile application in Venezuela. The block extends beyond Binance, encompassing various other online platforms, including social media sites and e-commerce platforms like MercadoLibre.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="es" dir="ltr">Estimados Binancians,</p>
+<p>Al igual que varios sitios web de empresas de diferentes segmentos en Venezuela, incluidas las redes sociales, las páginas de Binance han estado enfrentando restricciones de acceso.</p>
+<p>Queremos asegurarles que sus fondos están SAFU bajo nuestros robustos…</p>
+<p>&mdash; Binance Latinoamérica (@BinanceLATAM) <a href="https://twitter.com/BinanceLATAM/status/1822300144718487897?ref_src=twsrc%5Etfw">August 10, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Binance confirmed the access restrictions in a statement on August 10, acknowledging that &#8220;several websites of companies from different segments in Venezuela, including social networks&#8221; were facing similar issues.</p>
+<p>The exchange moved quickly to reassure its users, stating, &#8220;We want to inform you that your funds are secure (SAFU) under our security protocols.&#8221; Binance also emphasized that they are &#8220;monitoring the situation closely to address it in the best and quickest way possible.&#8221;</p>
+<p>The timing of this digital crackdown is significant, coming on the heels of a contentious presidential election held on July 28. Both incumbent President Nicolás Maduro and opposition candidate Edmundo González have claimed victory, leading to widespread protests and international scrutiny.</p>
+<p>Maduro, who was announced as the winner by the government-controlled electoral authority with just over 51% of the vote, has faced challenges from González, who claims to have won nearly 70% based on voting machine printouts collected by his party.</p>
+<p>The lack of a detailed vote count has fueled skepticism, with several countries, including the United States, the European Union, the United Kingdom, and multiple South American nations, refusing to recognize Maduro&#8217;s claim to the presidency.</p>
+<p>In response to the growing unrest, President Maduro has taken drastic measures. On August 8, he ordered the telecommunications regulator Conatel to ban access to X in the country for 10 days, citing concerns about the platform&#8217;s role in inciting violence. The government&#8217;s actions have extended beyond social media, affecting various online services crucial to many Venezuelans&#8217; daily lives.</p>
+<p>The block on Binance is particularly significant given the exchange&#8217;s importance in Venezuela&#8217;s unofficial economy.</p>
+<p>Binance&#8217;s peer-to-peer service, which allows users to directly exchange cash for cryptocurrency, has become a vital lifeline for many Venezuelans seeking to protect their wealth from the country&#8217;s hyperinflation. The bolivar, Venezuela&#8217;s local currency, has undergone severe devaluation, driving citizens to seek more stable alternatives like stablecoins and Bitcoin.</p>
+<p>VE sin Filtro has recommended that Venezuelans <a href="https://blockonomi.com/best-vpn-friendly-casino/">use virtual private networks</a> (VPNs) to circumvent the blocks.</p>
+<p>Similarly, the encrypted messaging app Signal, which was also affected by the government&#8217;s actions, remains functional for users who enable its &#8220;censorship circumvention&#8221; setting.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="es" dir="ltr">¿Cómo puedo evitar este bloqueo?<br />Revisa nuestras recomendaciones en este hilo<a href="https://t.co/OaCE1UpazW">https://t.co/OaCE1UpazW</a></p>
+<p>¿Qué es un bloqueo DNS?<br />Nuestros celulares y computadoras necesitan conocer la dirección IP de un servidor en internet para poder comunicarse con él, no sólo el nombre…</p>
+<p>&mdash; VE sin Filtro (@vesinfiltro) <a href="https://twitter.com/vesinfiltro/status/1822118131701060047?ref_src=twsrc%5Etfw">August 10, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The international community has expressed concern over the situation in Venezuela. The disputed election results and subsequent crackdown on digital platforms have raised questions about the state of democracy and freedom of information in the country.</p>
+<p>The post <a href="https://blockonomi.com/digital-blackout-venezuela-blocks-binance-and-x-amid-post-election-turmoil/">Digital Blackout: Venezuela Blocks Binance and X Amid Post-Election Turmoil</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">100670</post-id>	</item>
+		<item>
+		<title>Tornado Cash Deposits Surge to $1.9 Billion in 2024 Despite Sanctions</title>
+		<link>https://blockonomi.com/tornado-cash-deposits-surge-to-1-9-billion-in-2024-despite-sanctions/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2024 05:03:11 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=99438</guid>
+
+					<description><![CDATA[<p>Key points: Tornado Cash has seen a resurgence in 2024, with $1.9 billion in deposits in the first half of the year. This increase comes despite ongoing US sanctions and legal issues for its founders. Hackers continue to use Tornado Cash to launder stolen funds from various crypto exploits. WazirX, an Indian crypto exchange, recently [...]</p>
+<p>The post <a href="https://blockonomi.com/tornado-cash-deposits-surge-to-1-9-billion-in-2024-despite-sanctions/">Tornado Cash Deposits Surge to $1.9 Billion in 2024 Despite Sanctions</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Key points:</h2>
+<ul>
+<li>Tornado Cash has seen a resurgence in 2024, with $1.9 billion in deposits in the first half of the year.</li>
+<li>This increase comes despite ongoing US sanctions and legal issues for its founders.</li>
+<li>Hackers continue to use Tornado Cash to launder stolen funds from various crypto exploits.</li>
+<li>WazirX, an Indian crypto exchange, recently suffered a $235 million breach linked to Tornado Cash.</li>
+<li>The US Treasury views crypto mixers as a national security threat, but some in the industry are challenging the sanctions.</li>
+</ul>
+<hr />
+<p>Tornado Cash, a cryptocurrency mixing service, has experienced a significant resurgence in 2024 despite ongoing sanctions and legal challenges.</p>
+<p><a href="https://api.flipsidecrypto.com/charliemarketplace/tornado-cash-eF79Rn">According to data from Flipside Crypto</a>, the platform received about $1.9 billion in deposits during the first six months of the year. This marks a 50% increase compared to the total deposits for all of 2023.</p>
+<figure id="attachment_99439" aria-describedby="caption-attachment-99439" style="width: 800px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-99439" src="https://blockonomi.com/wp-content/uploads/2024/07/ca.png" alt="Tornado Cash Monthly Deposits/Withdrawals (USD)" width="800" height="631" srcset="https://blockonomi.com/wp-content/uploads/2024/07/ca.png 800w, https://blockonomi.com/wp-content/uploads/2024/07/ca-300x237.png 300w, https://blockonomi.com/wp-content/uploads/2024/07/ca-768x606.png 768w, https://blockonomi.com/wp-content/uploads/2024/07/ca-50x39.png 50w, https://blockonomi.com/wp-content/uploads/2024/07/ca-150x118.png 150w, https://blockonomi.com/wp-content/uploads/2024/07/ca-450x355.png 450w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption id="caption-attachment-99439" class="wp-caption-text">Tornado Cash Monthly Deposits/Withdrawals (USD)</figcaption></figure>
+<p>The Office of Foreign Assets Control (OFAC) sanctioned Tornado Cash in August 2022 after discovering that the North Korean hacking group Lazarus had used it to launder around $455 million in stolen funds.</p>
+<p>These sanctions mean that any wallet interacting with Tornado Cash could be blacklisted, making it difficult to withdraw funds through legal crypto exchanges.</p>
+<p>Despite these restrictions, Tornado Cash remains popular among hackers looking to hide the source of stolen cryptocurrencies.</p>
+<p>R<a href="https://cointelegraph.com/news/tornado-cash-resurgence-despite-ongoing-sanctions">ecent data from blockchain analytics firm Arkham Intelligence</a> shows that the hacker behind the $100 million Poloniex exchange exploit transferred $76 million to Tornado Cash since May. Similarly, hackers responsible for the HECO Bridge and Orbit Chain exploits moved $166 million and $48 million respectively through the mixer in the first half of 2024.</p>
+<p>The ongoing use of Tornado Cash by hackers was highlighted in a recent incident involving WazirX, an Indian crypto exchange.</p>
+<p>On July 18, 2024, <a href="https://www.financemagnates.com/cryptocurrency/wazirx-halts-withdrawals-after-235-million-breach-linked-to-tornado-cash/">WazirX reported a security breach</a> resulting in the loss of $235 million. One of the wallet addresses linked to this hack was funded through a Tornado Cash deposit, further demonstrating the mixer&#8217;s role in cryptocurrency-related crimes.</p>
+<p>The crypto industry has been challenging the Tornado Cash sanctions through a lawsuit filed in 2022.</p>
+<p>Supporters argue that the sanctions are &#8220;unlawful and unconstitutional&#8221; because Tornado Cash is not a country or an &#8220;entity,&#8221; and blocking it violates free speech rights under the US Constitution.</p>
+<p>Major crypto firms like Coinbase and advocacy groups such as The Blockchain Association and Coin Center have backed this lawsuit.</p>
+<p>However, the US Treasury maintains that crypto mixers pose a national security threat, and Tornado Cash failed to implement adequate controls to prevent money laundering.</p>
+<p>This stance has led to legal troubles for the platform&#8217;s co-founders.<a href="https://blockonomi.com/tornado-cash-developer-alexey-pertsev-challenges-64-month-prison-sentence-in-dutch-court/"> Alexey Pertsev was sentenced to over five years in Dutch prison on money laundering charges</a>. Roman Storm was arrested in the United States and pleaded not guilty to similar charges, while Roman Semenov remains at large.</p>
+<p>The resurgence of Tornado Cash highlights the ongoing challenges in regulating decentralized finance (DeFi) platforms. While US authorities have cracked down on crypto-related crimes, the decentralized nature of protocols like Tornado Cash makes them difficult to police effectively.</p>
+<p>The post <a href="https://blockonomi.com/tornado-cash-deposits-surge-to-1-9-billion-in-2024-despite-sanctions/">Tornado Cash Deposits Surge to $1.9 Billion in 2024 Despite Sanctions</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">99438</post-id>	</item>
+		<item>
+		<title>Tornado Cash Developer Denied Bail in Money Laundering Case</title>
+		<link>https://blockonomi.com/tornado-cash-developer-denied-bail-in-money-laundering-case/</link>
+		
+		<dc:creator><![CDATA[Nicholas Say]]></dc:creator>
+		<pubDate>Mon, 15 Jul 2024 08:11:39 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=99097</guid>
+
+					<description><![CDATA[<p>A Dutch court has rejected the request to be released on bail by Tornado Cash developer Alexey Pertsev, according to a recent report from DL News. Pertsev will remain in detention as his appeal process moves forward. So it looks like the developer of sanctioned crypto mixer Tornado Cash stays behind bars after being denied [...]</p>
+<p>The post <a href="https://blockonomi.com/tornado-cash-developer-denied-bail-in-money-laundering-case/">Tornado Cash Developer Denied Bail in Money Laundering Case</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A Dutch court has rejected the request to be released on bail by Tornado Cash developer Alexey Pertsev, according to <a href="https://www.dlnews.com/articles/regulation/dutch-court-rejects-bail-for-tornado-cash-dev-alexey-pertsev/">a recent report from DL News</a>. Pertsev will remain in detention as his appeal process moves forward.</p>
+<p>So it looks like the developer of sanctioned crypto mixer Tornado Cash stays behind bars after being denied bail.</p>
+<p>Pertsev was arrested by Dutch police in Amsterdam in August 2022 for his role in developing the open-source Tornado Cash code. The prominent cryptocurrency mixing service was accused of being misused for money laundering by third parties.</p>
+<h2>Governments Want Total Transparency</h2>
+<p>After a multi-day court hearing as part of his trial, Pertsev was convicted of money laundering in May this year and was sentenced to 64 months in prison. In his arguments, the developer said he had no intent to facilitate criminal activities and he was simply a codewriter.</p>
+<p>Pertsev has since appealed the conviction, but a Dutch court has denied his request to be released on bail while he prepares his appeal.</p>
+<p>As reported, the bail request and Pertsev&#8217;s access to a computer to help his defense were denied, said Keith Cheng, Pertsev’s defense lawyer. Cheng added that the rejection was unexpected.</p>
+<p>Judith de Boer, Pertsev’s lawyer, believes Pertsev’s release from jail is necessary for a fair appeal for a case that will set a precedent for how much responsibility software developers have for how their creations are used.</p>
+<blockquote><p>“In a case involving such fundamental legal questions, pre-trial detention is unacceptable,” said de Boer. “This unprecedented case addresses when a software developer can be criminally liable for third-party misuse.”</p></blockquote>
+<p>Apart from Pertsev, two other Tornado Cash developers are also facing legal issues, including Roman Storm, Tornado Cash’s co-founder, and developer Roman Semenov.</p>
+<p>Following his arrest in the U.S. last year, Storm is facing charges including conspiracy to commit money laundering, conspiracy to operate an unlicensed money-transmitting business, and conspiracy to violate the International Emergency Economic Powers Act. He is currently undergoing trial in the U.S. court system.</p>
+<p>Meanwhile, Semenov&#8217;s current whereabouts are unknown. The developer is speculated to be located in the UAE, but he remains at large and has not been taken into custody.</p>
+<p>Pertsev’s supporters have criticized his arrest, arguing that developers should not be held responsible for how their open-source software is used by others.</p>
+<p>During his trial, Pertsev and his lawyers also stated that Tornado Cash is a privacy tool and that developers cannot be held liable for how users choose to utilize open-source software. Unfortunately, the Dutch court did not side with Pertsev.</p>
+<h2>Crypto Community Outrage</h2>
+<p>The crypto community has reacted with outrage and criticism over the arrest and conviction of Pertsev. Many members have called the 64-month prison sentence an &#8220;outlandish&#8221; and &#8220;sad day for privacy, crypto and open-source.&#8221;</p>
+<p>Pablito, the head of security research at Blockfence, said the war is not over and that privacy is a human right.</p>
+<p>Meanwhile, Web3 expert Alexandre Stachtchenko said Pertsev&#8217;s case has gone too far. He expressed strong disapproval of the current <a href="https://blockonomi.com/best-no-kyc-casinos/">regulations around excessive KYC</a> and surveillance practices before they undermine the core principles of democracy.</p>
+<p>Byte Federal&#8217;s director of product development, Michelle Weekley, said the court ruling shows crypto users must “participate in AML/KYC regulation or go to jail.” He called it a &#8220;tyrannical dictatorship.&#8221;</p>
+<p>Not only the believed unfair treatment, the crypto community members are also concerned the Pertsev verdict could set a dangerous precedent that threatens privacy, open-source development, and the future of the industry.</p>
+<p>The court’s approach has stirred controversy as many view the ruling as an overreach of government power and a blow to individual rights.</p>
+<p>Crypto lawyers have also argued the decentralized nature of crypto technology requires a more nuanced legal approach than the traditional one applied in Pertsev&#8217;s case.</p>
+<p>The post <a href="https://blockonomi.com/tornado-cash-developer-denied-bail-in-money-laundering-case/">Tornado Cash Developer Denied Bail in Money Laundering Case</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">99097</post-id>	</item>
+		<item>
+		<title>Hinkal Launches Shared Privacy Protocol for Cross-Chain DeFi Privacy</title>
+		<link>https://blockonomi.com/hinkal-launches-shared-privacy-protocol-for-cross-chain-defi-privacy/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Tue, 09 Jul 2024 10:16:59 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=98619</guid>
+
+					<description><![CDATA[<p>TLDR Hinkal announced the upcoming launch of the Shared Privacy Protocol The protocol enables cross-chain privacy via anonymity staking It addresses the need for privacy in DeFi trading, especially for institutional investors The Shared Privacy Protocol creates a unified pool of shielded liquidity across all chains Users can stake assets to earn rewards while contributing [...]</p>
+<p>The post <a href="https://blockonomi.com/hinkal-launches-shared-privacy-protocol-for-cross-chain-defi-privacy/">Hinkal Launches Shared Privacy Protocol for Cross-Chain DeFi Privacy</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li>Hinkal announced the upcoming launch of the Shared Privacy Protocol</li>
+<li>The protocol enables cross-chain privacy via anonymity staking</li>
+<li>It addresses the need for privacy in DeFi trading, especially for institutional investors</li>
+<li>The Shared Privacy Protocol creates a unified pool of shielded liquidity across all chains</li>
+<li>Users can stake assets to earn rewards while contributing to the privacy pool</li>
+<li>The protocol aims to mirror the privacy standards of traditional finance in DeFi</li>
+</ul>
+<hr />
+<p><a href="https://hinkal.pro/">Hinkal</a>, a multi-chain privacy layer for confidential on-chain transactions, has announced the upcoming launch of its Shared Privacy Protocol. This innovative protocol aims to enable cross-chain privacy through a mechanism called anonymity staking, potentially revolutionizing how privacy is handled in the blockchain space.</p>
+<p>The announcement comes at a time when institutional investors are rapidly entering crypto markets, bringing with them a demand for the same level of privacy in DeFi trading that they&#8217;ve long enjoyed in traditional equities markets. However, achieving complete privacy in DeFi has been a significant challenge due to the fragmentation of liquidity across more than 200 Layer-1 and Layer-2 blockchains.</p>
+<p>Hinkal&#8217;s Shared Privacy Protocol addresses this challenge by establishing a unified pool of shielded liquidity across all chains. This approach, which the company likens to &#8220;EigenLayer for Privacy,&#8221; allows users to bootstrap Shielded Total Value Locked (TVL) in a manner similar to how EigenLayer enabled projects to bootstrap security.</p>
+<p>The protocol introduces a concept of horizontal privacy integration, where the Shielded TVL can be mirrored across different blockchains such as <a href="https://blockonomi.com/arbitrum-dao-considers-sharing-revenue-with-arb-holders/">Arbitrum</a><a href="https://blockonomi.com/best-solana-casino/"> or Solana. </a></p>
+<p>This allows traders and decentralized applications (dApps) across the entire blockchain ecosystem to leverage the full value of the Shielded TVL pool, regardless of which specific chain they&#8217;re operating on.</p>
+<p>Georgi Koreli, co-founder and CEO of Hinkal, emphasized the importance of this development:</p>
+<blockquote><p>&#8220;Ensuring complete privacy on-chain is a critical step in enabling the full adoption of crypto as an asset class across the institutional financial sector. The launch of the Shared Privacy Protocol is a key milestone in unleashing the power of community and breaking privacy barriers in crypto.&#8221;</p></blockquote>
+<p>The Shared Privacy Protocol offers benefits to various stakeholders in the DeFi ecosystem. Stakers can deploy their native and staked assets to the protocol, generating additional yield while maintaining the flexibility to trade yield tokens on other dApps.</p>
+<p>Traders benefit from an expanded Shielded pool, which further obfuscates their trading strategies and allows them to maximize deployed capital across multiple chains. For developers of decentralized exchanges and dApps, the protocol offers a seamless way to integrate new privacy capabilities into their platforms.</p>
+<p>This approach to privacy in DeFi mirrors the secure standards of traditional finance, allowing both individual and institutional users to manage assets and transact on major dApps without publicly disclosing wallet addresses. This level of privacy is crucial for institutional adoption of DeFi, as it protects trading strategies and prevents front-running.</p>
+<p>Evgeny Gokhberg, founder of Re7 Capital and an investor in Hinkal, highlighted the importance of this solution for institutional players:</p>
+<blockquote><p>&#8220;A compliant solution enabling discrete liquidations without disclosing transaction data is necessary for us to efficiently operate in DeFi markets, and Hinkal&#8217;s Shared Privacy Protocol is the solution we have been searching for a long time.&#8221;</p></blockquote>
+<p>Hinkal, founded by Stanford graduate Giorgi Koreli and his Ph.D. brother Nika Koreli, is designed as an institutional-grade protocol providing users with full control over their on-chain assets.</p>
+<p>The protocol uses zero-knowledge (ZK) proofs to enable private smart contract wallet experiences, allowing users to interact with their favorite dApps directly from private addresses without needing to withdraw assets for obfuscation.</p>
+<p>The post <a href="https://blockonomi.com/hinkal-launches-shared-privacy-protocol-for-cross-chain-defi-privacy/">Hinkal Launches Shared Privacy Protocol for Cross-Chain DeFi Privacy</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">98619</post-id>	</item>
+		<item>
+		<title>Brazil Draws the Line: Meta Ordered to Exclude Personal Data from AI Training</title>
+		<link>https://blockonomi.com/brazil-draws-the-line-meta-ordered-to-exclude-personal-data-from-ai-training/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Thu, 04 Jul 2024 08:12:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=98287</guid>
+
+					<description><![CDATA[<p>TLDR Brazil&#8217;s data protection authority (ANPD) has banned Meta from using Brazilian personal data to train its AI models. The decision follows Meta&#8217;s privacy policy update in May, which allowed it to use public Facebook, Instagram, and Messenger data for AI training. ANPD cites &#8220;imminent risk of serious and irreparable damage&#8221; to users&#8217; fundamental rights. [...]</p>
+<p>The post <a href="https://blockonomi.com/brazil-draws-the-line-meta-ordered-to-exclude-personal-data-from-ai-training/">Brazil Draws the Line: Meta Ordered to Exclude Personal Data from AI Training</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li>Brazil&#8217;s data protection authority (ANPD) has banned Meta from using Brazilian personal data to train its AI models.</li>
+<li>The decision follows Meta&#8217;s privacy policy update in May, which allowed it to use public Facebook, Instagram, and Messenger data for AI training.</li>
+<li>ANPD cites &#8220;imminent risk of serious and irreparable damage&#8221; to users&#8217; fundamental rights.</li>
+<li>Meta has five working days to comply or face daily fines of 50,000 reais (about $8,808).</li>
+<li>This follows similar pushback from regulators in the European Union.</li>
+</ul>
+<hr />
+<p>Brazil&#8217;s national data protection agency (ANPD) has taken a step to protect its citizens&#8217; privacy by ordering Meta to stop using Brazilian personal data to train its artificial intelligence models.</p>
+<p><a href="https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data">This decision, announced on Tuesday</a>, comes in response to Meta&#8217;s recent privacy policy update that granted the company permission to use public posts, images, and captions from Facebook, Instagram, and Messenger for AI training purposes.</p>
+<p>The ANPD&#8217;s ruling cites &#8220;imminent risk of serious and irreparable damage&#8221; to the fundamental rights of Brazilian users. With over 102 million Facebook users and 113 million Instagram users in Brazil, the country represents a significant market for Meta, making this decision particularly impactful.</p>
+<p>The agency&#8217;s concerns are not unfounded. A recent report by Human Rights Watch revealed that LAION-5B, one of the largest image-caption datasets used to train AI models, contains identifiable photos of Brazilian children.</p>
+<p>This discovery raised alarms about the potential for deepfakes and other forms of exploitation, highlighting the urgent need for stricter data protection measures.</p>
+<p>Under the ANPD&#8217;s order, Meta has been given five working days to demonstrate compliance with the directive by amending its privacy policy to exclude the use of personal information from public posts for AI training. Failure to do so will result in daily fines of 50,000 reais (approximately $8,808 or £6,935).</p>
+<p>Meta, in response to the decision, expressed disappointment, stating that their approach complies with local privacy laws. A company spokesperson said,</p>
+<blockquote><p>&#8220;This is a step backwards for innovation, competition in AI development and further delays bringing the benefits of AI to people in Brazil.&#8221;</p></blockquote>
+<p>However, privacy advocates and data protection experts have welcomed the ANPD&#8217;s proactive stance.</p>
+<p>Pedro Martins from Data Privacy Brasil pointed out discrepancies between Meta&#8217;s data protection measures for Brazilian and European users.</p>
+<p>In Europe, Meta had planned to exclude data from users under 18 from AI training, while in Brazil, posts from children and teenagers were potentially included. Martins also noted that the opt-out process for Brazilian users was more complicated, potentially taking up to eight steps, compared to a more straightforward process in Europe.</p>
+<p>This decision by Brazil&#8217;s ANPD mirrors similar concerns raised in the European Union. In June, Meta paused its plans to train AI models on European users&#8217; data after receiving a request from the Irish Data Protection Commission. The company had initially planned to implement the policy change in Europe on June 26, but this has been put on hold pending further review.</p>
+<p>The pushback against Meta&#8217;s data collection practices for AI training is part of a broader global conversation about privacy, data protection, and the ethical development of artificial intelligence.</p>
+<p>For Meta, this setback in Brazil, following similar challenges in Europe, may force a reevaluation of its global AI strategy. The company will need to navigate an increasingly complex regulatory landscape while still pursuing its AI development goals.</p>
+<p>The post <a href="https://blockonomi.com/brazil-draws-the-line-meta-ordered-to-exclude-personal-data-from-ai-training/">Brazil Draws the Line: Meta Ordered to Exclude Personal Data from AI Training</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">98287</post-id>	</item>
+		<item>
+		<title>Sesame Online Teams Up with iDenfy to Boost Security in Online Gambling</title>
+		<link>https://blockonomi.com/sesame-online-teams-up-with-idenfy-to-boost-security-in-online-gambling/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 09:26:37 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=97791</guid>
+
+					<description><![CDATA[<p>TLDR Sesame Online, a Bulgarian online gambling platform, partners with iDenfy for identity verification iDenfy&#8217;s solution aims to prevent underage gambling and money laundering The partnership will automate and streamline Sesame Online&#8217;s KYC process iDenfy&#8217;s technology includes AI facial recognition and 3D liveness detection Sesame Online won the Responsible Gaming Program of 2023 award from [...]</p>
+<p>The post <a href="https://blockonomi.com/sesame-online-teams-up-with-idenfy-to-boost-security-in-online-gambling/">Sesame Online Teams Up with iDenfy to Boost Security in Online Gambling</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li>Sesame Online, a Bulgarian online gambling platform, partners with iDenfy for identity verification</li>
+<li>iDenfy&#8217;s solution aims to prevent underage gambling and money laundering</li>
+<li>The partnership will automate and streamline Sesame Online&#8217;s KYC process</li>
+<li>iDenfy&#8217;s technology includes AI facial recognition and 3D liveness detection</li>
+<li>Sesame Online won the Responsible Gaming Program of 2023 award from BEGE Expo</li>
+</ul>
+<hr />
+<p>Sesame Online, a Bulgarian online gambling platform, has joined forces with<a href="https://www.idenfy.com/"> iDenfy,</a> a Lithuanian company that specializes in identity verification. This partnership aims to make online betting safer and easier for users.</p>
+<p>Online gambling has become very popular, but it also comes with risks. Two big problems are underage gambling and money laundering. Sesame Online wants to tackle these issues head-on.</p>
+<p>Victoria Petrova, the CEO of Sesame Online, explained why they chose iDenfy:</p>
+<blockquote><p>&#8220;They are leaders in the market, offering robust automation solutions specifically tailored to the iGaming industry. This change has already helped us onboard more users in less time, ensuring that only verified, real gamers access our services swiftly.&#8221;</p></blockquote>
+<p>iDenfy brings some high-tech solutions to the table. They use artificial intelligence (AI) for facial recognition and something called 3D liveness detection. These tools help make sure that the person trying to use<a href="https://blockonomi.com/best-bitcoin-casino/"> the gambling site</a> is who they say they are.</p>
+<p>One of the main goals is to keep kids away from online gambling. <a href="https://www.mass.gov/info-details/teens-gambling-its-a-risk#:~:text=Research%20shows%20that%20children%20introduced,risk%20and%20make%20healthy%20choices.">Research shows</a> that children who start betting at a young age are more likely to have gambling problems later in life. By checking users&#8217; ages, Sesame Online hopes to create a safer environment.</p>
+<p>The new system will also help fight money laundering. Sometimes, criminals try to use online gambling sites to make illegal money look legal. By verifying <a href="https://blockonomi.com/best-no-kyc-casinos/">users&#8217; identities</a> and checking where their money comes from, Sesame Online can help stop this kind of fraud.</p>
+<p>Domantas Ciulde, the CEO of iDenfy, shared his thoughts on the partnership:</p>
+<blockquote><p>&#8220;By constantly improving the power of biometric authentication and machine learning algorithms, we empower gaming operators to uphold regulatory compliance and safeguard young demographics.&#8221;</p></blockquote>
+<p>The partnership isn&#8217;t just about following rules. It&#8217;s also about making things easier for honest players. In the past, signing up for online gambling sites could be slow and frustrating. With iDenfy&#8217;s technology, Sesame Online hopes to make the process quicker and smoother.</p>
+<p>iDenfy&#8217;s system can check over 3,000 types of ID documents from 200 countries. This wide coverage means that Sesame Online can welcome players from many different places while still keeping things secure.</p>
+<p>Sesame Online has already shown its commitment to responsible gambling. They won the Responsible Gaming Program of 2023 award from BEGE Expo. This award recognizes their efforts to create a safe and fair gaming environment.</p>
+<p>The online gambling industry has to follow strict rules. These rules are there to protect players and prevent crime. By working with iDenfy, Sesame Online is trying to stay ahead of these requirements.</p>
+<p>The post <a href="https://blockonomi.com/sesame-online-teams-up-with-idenfy-to-boost-security-in-online-gambling/">Sesame Online Teams Up with iDenfy to Boost Security in Online Gambling</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">97791</post-id>	</item>
+		<item>
+		<title>WikiLeaks Founder Julian Assange Released from Prison Following U.S. Plea Deal</title>
+		<link>https://blockonomi.com/wikileaks-founder-julian-assange-released-from-prison-following-u-s-plea-deal/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 09:43:01 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=97700</guid>
+
+					<description><![CDATA[<p>TLDR Julian Assange has been released from prison after reaching a plea deal with the U.S. Department of Justice. Assange is expected to plead guilty to a single Espionage Act charge in exchange for a sentence of time already served. He left the UK on a private jet and is headed to Saipan in the [...]</p>
+<p>The post <a href="https://blockonomi.com/wikileaks-founder-julian-assange-released-from-prison-following-u-s-plea-deal/">WikiLeaks Founder Julian Assange Released from Prison Following U.S. Plea Deal</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li>Julian Assange has been released from prison after reaching a plea deal with the U.S. Department of Justice.</li>
+<li>Assange is expected to plead guilty to a single Espionage Act charge in exchange for a sentence of time already served.</li>
+<li>He left the UK on a private jet and is headed to Saipan in the Northern Mariana Islands for a court appearance.</li>
+<li>The plea deal concludes a long-running legal saga spanning multiple countries.</li>
+<li>Assange is expected to return to his home country of Australia after the court proceedings.</li>
+</ul>
+<hr />
+<p>WikiLeaks founder Julian Assange <a href="https://apnews.com/article/assange-justice-department-plea-wikileaks-saipan-australia-00eb380879ff636cc9b916f82f82ed40">has been released from prison after reaching a plea agreement with the U.S. Department of Justice (DOJ).</a> This development marks the end of a long-running legal saga that has spanned over a decade and multiple continents.</p>
+<p>Assange, who spent the last five years in London&#8217;s high-security Belmarsh Prison, left the UK on a private jet from Stansted Airport on Monday, June 24, 2024. His first stop was Bangkok, Thailand, for refueling before continuing to Saipan, the capital of the Northern Mariana Islands, a U.S. commonwealth in the Western Pacific.</p>
+<p>According to court documents filed late Monday, Assange is scheduled to appear in federal court in Saipan on Wednesday, June 26. He is expected to plead guilty to a single felony charge under the Espionage Act for conspiring to unlawfully obtain and disseminate classified national defense information.</p>
+<p>In exchange, prosecutors have agreed to a sentence equivalent to the five years Assange has already served in British prison while fighting extradition to the U.S.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">JULIAN ASSANGE IS FREE</p>
+<p>Julian Assange is free. He left Belmarsh maximum security prison on the morning of 24 June, after having spent 1901 days there. He was granted bail by the High Court in London and was released at Stansted airport during the afternoon, where he boarded a…</p>
+<p>&mdash; WikiLeaks (@wikileaks) <a href="https://twitter.com/wikileaks/status/1805390138945528183?ref_src=twsrc%5Etfw">June 24, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The choice of Saipan for the court proceedings is due to Assange&#8217;s opposition to traveling to the continental United States and the court&#8217;s proximity to Australia, his home country. After the court appearance and sentencing, Assange is expected to return to Australia as a free man.</p>
+<p>This plea deal brings an abrupt conclusion to the U.S. government&#8217;s yearslong pursuit of Assange, whose WikiLeaks website published a trove of classified documents in 2010.</p>
+<p>These documents included diplomatic cables and military files provided by former U.S. Army intelligence analyst Chelsea Manning. Among the files was a video of a 2007 Apache helicopter attack by American forces in Baghdad that killed 11 people, including two Reuters journalists.</p>
+<p>The case has been controversial, with supporters hailing Assange as a hero who exposed military wrongdoing, while critics accused him of endangering national security.</p>
+<p>Press freedom advocates have lambasted the prosecution, arguing that Assange&#8217;s actions were protected under journalistic principles.</p>
+<p>Federal prosecutors, however, maintained that his conduct went beyond journalism and amounted to soliciting, stealing, and indiscriminately publishing classified government documents.</p>
+<p>Assange&#8217;s wife, Stella, confirmed the news to the BBC, expressing elation at the development. She mentioned that the details of the agreement would be made public once the judge has signed off on it.</p>
+<p>The flight carrying Assange reportedly cost $500,000, and his supporters are launching a fundraising campaign to help cover the expenses.</p>
+<p>Kristinn Hrafnsson, editor-in-chief of WikiLeaks, credited the involvement of Australian Prime Minister Anthony Albanese for helping to bring about the deal. Albanese told the Australian Parliament that an Australian envoy had flown with Assange from London, stating,</p>
+<blockquote><p>&#8220;Regardless of the views that people have about Mr. Assange&#8217;s activities, the case has dragged on for too long.&#8221;</p></blockquote>
+<p>The plea agreement comes months after President Joe Biden said he was considering a request from Australia to drop the U.S. push to prosecute Assange. However, the White House reportedly was not involved in the decision to resolve Assange&#8217;s case.</p>
+<p>Assange&#8217;s legal troubles began in 2010 when he sought asylum in the Ecuadorian Embassy in London to avoid extradition to Sweden on rape allegations, which he denied. He spent nearly seven years in the embassy before his asylum was withdrawn in 2019, leading to his arrest by British police and subsequent imprisonment for skipping bail.</p>
+<p>Throughout his ordeal, Assange has received support from various quarters, including a Decentralized Autonomous Organization (DAO) that raised over 16,500 ether – worth over $55.2 million at current prices – for his legal defense.</p>
+<p>The resolution of Assange&#8217;s case marks a significant moment in the ongoing debate about press freedom, government transparency, and national security.</p>
+<p>The post <a href="https://blockonomi.com/wikileaks-founder-julian-assange-released-from-prison-following-u-s-plea-deal/">WikiLeaks Founder Julian Assange Released from Prison Following U.S. Plea Deal</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">97700</post-id>	</item>
+		<item>
+		<title>The Battle Over Encrypted Messaging: Signal President Calls Out EU&#8217;s &#8220;Rhetorical Games&#8221;</title>
+		<link>https://blockonomi.com/the-battle-over-encrypted-messaging-signal-president-calls-out-eus-rhetorical-games/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Tue, 18 Jun 2024 09:32:05 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=97273</guid>
+
+					<description><![CDATA[<p>TLDR The EU Commission has revised its Chat Control law proposal, now seeking to mandate &#8220;upload moderation&#8221; for encrypted messaging apps to detect CSAM before messages are transmitted. Signal President Meredith Whittaker argues that &#8220;upload moderation&#8221; is simply a rebranding of client-side scanning, which fundamentally undermines end-to-end encryption (E2EE) by creating vulnerabilities that can be [...]</p>
+<p>The post <a href="https://blockonomi.com/the-battle-over-encrypted-messaging-signal-president-calls-out-eus-rhetorical-games/">The Battle Over Encrypted Messaging: Signal President Calls Out EU&#8217;s &#8220;Rhetorical Games&#8221;</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ol>
+<li>The EU Commission has revised its Chat Control law proposal, now seeking to mandate &#8220;upload moderation&#8221; for encrypted messaging apps to detect CSAM before messages are transmitted.</li>
+<li>Signal President Meredith Whittaker argues that &#8220;upload moderation&#8221; is simply a rebranding of client-side scanning, which fundamentally undermines end-to-end encryption (E2EE) by creating vulnerabilities that can be exploited by hackers and hostile nation states.</li>
+<li>The revised proposal would require users of E2EE messaging apps to consent to scanning to detect CSAM, and those who do not consent would be prevented from sending visual content or URLs.</li>
+<li>Despite the EU Parliament initially voting to exclude E2EE apps from mass surveillance orders in the Chat Control legislation, some European countries continue to push for weakening chat encryption.</li>
+<li>Whittaker emphasizes that mandating mass scanning of private communications fundamentally undermines encryption, regardless of the terminology used, and calls on lawmakers to stop playing &#8220;rhetorical games&#8221; with such a serious topic.</li>
+</ol>
+<hr />
+<p><a href="https://signal.org/blog/pdfs/upload-moderation.pdf">In a scathing blog post on Monday</a>, Signal President Meredith Whittaker slammed the European Union&#8217;s latest proposal to combat child sexual abuse material (CSAM) online, arguing that the revised Chat Control law is nothing more than a thinly veiled attempt to undermine end-to-end encryption (E2EE) through &#8220;rhetorical games.&#8221;</p>
+<p>The EU Commission first proposed the Chat Control law in mid-2022, which would have forced messaging apps to create a backdoor to E2EE messages to detect CSAM.</p>
+<p>While the EU Parliament initially voted against mass screening of encrypted communications, a revised draft of the law now seeks to mandate &#8220;upload moderation&#8221; as an alternative method of mass scanning.</p>
+<p>Whittaker argues that &#8220;upload moderation&#8221; is simply a rebranding of client-side scanning, a controversial technology that security and privacy experts say is incompatible with strong encryption.</p>
+<p>The revised proposal would require users of E2EE messaging apps to consent to scanning to detect CSAM, and those who do not consent would be prevented from sending visual content or URLs, effectively downgrading their messaging experience.</p>
+<blockquote><p>&#8220;Mandating mass scanning of private communications fundamentally undermines encryption. Full stop,&#8221; Whittaker emphasized. &#8220;Whether this happens via tampering with, for instance, an encryption algorithm&#8217;s random number generation, or by implementing a key escrow system, or by forcing communications to pass through a surveillance system before they&#8217;re encrypted.&#8221;</p></blockquote>
+<p>Whittaker stressed that regardless of the terminology used, any approach that creates a vulnerability in E2EE can be exploited by hackers and hostile nation states, removing the protection of unbreakable math and replacing it with a high-value target for attack.</p>
+<p>The Signal president&#8217;s criticism comes as European police chiefs and some EU member states continue to push for &#8220;technical solutions&#8221; to ensure &#8220;lawful access&#8221; to encrypted data, despite warnings from privacy advocates and the EU&#8217;s own data protection supervisor that such measures pose a direct threat to democratic values in a free and open society.</p>
+<p>Whittaker praised the EU Parliament for initially voting to exclude E2EE apps from mass surveillance orders in the Chat Control legislation, responding to the longstanding expert consensus that subjecting everyone&#8217;s private communications to mass scanning against a government-curated database or AI model of &#8220;acceptable&#8221; speech and content poses serious dangers.</p>
+<p>However, she noted that some European countries have continued to play &#8220;rhetorical games,&#8221; rebranding client-side scanning as &#8220;upload moderation&#8221; in an attempt to convince non-experts that the risks of the previous plan to undermine E2EE are not present in the new proposal.</p>
+<p>Whittaker called on lawmakers to stop playing word games with such a serious topic, emphasizing that the stakes are too high to engage in &#8220;embarrassing branding exercises&#8221; that do not sway the expert community.</p>
+<blockquote><p>&#8220;Either end-to-end encryption protects everyone, and enshrines security and privacy, or it&#8217;s broken for everyone,&#8221;</p></blockquote>
+<p>Whittaker said.</p>
+<blockquote><p>&#8220;And breaking end-to-end encryption, particularly at such a geopolitically volatile time, is a disastrous proposition.&#8221;</p></blockquote>
+<p>As the EU continues to debate the Chat Control law, privacy advocates and security experts remain steadfast in their opposition to any measures that would undermine the integrity of E2EE.</p>
+<p>The post <a href="https://blockonomi.com/the-battle-over-encrypted-messaging-signal-president-calls-out-eus-rhetorical-games/">The Battle Over Encrypted Messaging: Signal President Calls Out EU&#8217;s &#8220;Rhetorical Games&#8221;</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">97273</post-id>	</item>
+	</channel>
+</rss>
