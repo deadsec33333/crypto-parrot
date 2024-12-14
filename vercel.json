@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/Bobbles-The-Guinea-Pig-That-Powers-a-Crypto-Mining-Revolution",
-      "destination": "/Bobbles-The-Guinea-Pig-That-Powers-a-Crypto-Mining-Revolution.html.html"
+      "destination": "Bobbles-The-Guinea-Pig-That-Powers-a-Crypto-Mining-Revolution.html"
     }
   ]
 }
